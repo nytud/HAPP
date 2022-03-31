@@ -1,0 +1,58 @@
+[
+    {
+        "sent": "Peti félt Palitól, mert új emberek közelében megijed.",
+        "question": "Ki ijed meg új emberek közelében?",
+        "answerA": "Peti",
+        "answerB": "Pali",
+        "correct": "A"
+    },
+    {
+        "sent": "Peti félt Palitól, mert egy véres lándzsával rohangált.",
+        "question": "Ki rohangált egy véres lándzsával?",
+        "answerA": "Peti",
+        "answerB": "Pali",
+        "correct": "B"
+    },
+    {
+        "sent": "Amikor Dóri lefröcskölte Tinát, bajba került.",
+        "question": "Ki került bajba?",
+        "answerA": "Dóri",
+        "answerB": "Tina",
+        "correct": "A"
+    },
+    {
+        "sent": "Amikor Dóri lefröcskölte Tinát, vizes lett.",
+        "question": "Ki lett vizes?",
+        "answerA": "Dóri",
+        "answerB": "Tina",
+        "correct": "B"
+    },
+    {
+        "sent": "Mari leszúrta Rózsát, ezért Jani bevitte a kórházba.",
+        "question": "Kit vittek kórházba?",
+        "answerA": "Marit",
+        "answerB": "Rózsát",
+        "correct": "A"
+    },
+    {
+        "sent": "Mari leszúrta Rózsát, ezért Jani feljelentette a rendőrségen.",
+        "question": "Kit jelentettek fel a rendőrségen?",
+        "answerA": "Marit",
+        "answerB": "Rózsát",
+        "correct": "B"
+    },
+    {
+        "sent": "Az oroszlánok azért esznek zebrákat, mert ragadozók.",
+        "question": "Kik ragadozók?",
+        "answerA": "az oroszlánok",
+        "answerB": "a zebrák",
+        "correct": "A"
+    },
+    {
+        "sent": "Az oroszlánok azért esznek zebrákat, mert táplálóak.",
+        "question": "Kik táplálóak?",
+        "answerA": "az oroszlánok",
+        "answerB": "a zebrák",
+        "correct": "B"
+    }
+]
