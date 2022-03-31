@@ -11,7 +11,7 @@ HAPP is stored in a `json` file, and it follows the format of the Winograd schem
 
 ## License
 
-PWS is available under CC-BY-SA 4.0 [licese](LICENSE).
+PWS is available under CC-BY-SA 4.0 [license](LICENSE).
 
 If you use the dataset, please cite:
 
