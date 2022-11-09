@@ -15,6 +15,24 @@ PWS is available under CC-BY-SA 4.0 [license](LICENSE).
 
 If you use the dataset, please cite:
 
+
+Vadász, N., & Ligeti-Nagy, N. (2022). Winograd schemata and other datasets for anaphora resolution in Hungarian, Acta Linguistica Academica, 69(4), in press.
+
+```bibtex
+@article {HuWNLI,
+      author = "Noémi Vadász and Noémi Ligeti-Nagy",
+      title = "Winograd schemata and other datasets for anaphora resolution in Hungarian",
+      journal = "Acta Linguistica Academica",
+      year = "2022",
+      publisher = "Akadémiai Kiadó",
+      address = "Budapest, Hungary",
+      volume = "69",
+      number = "4",
+      note = "In press."
+}
+```
+and to:
+
 ```bibtex
 @InProceedings{rahman_ng,
   author = {Altaf Rahman and Vincent Ng},
