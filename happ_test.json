@@ -1,0 +1,3950 @@
+[
+    {
+        "sent": "A mesterlövész azért lőtte le a terroristát, mert rosszfiú volt.",
+        "question": "Ki volt rosszfiú?",
+        "answerA": "a mesterlövész",
+        "answerB": "a terrorista",
+        "correct": "a terrorista"
+    },
+    {
+        "sent": "A mesterlövész azért lőtte le a terroristát, mert parancsot kapott.",
+        "question": "Ki kapott parancsot?",
+        "answerA": "a mesterlövész",
+        "answerB": "a terrorista",
+        "correct": "a mesterlövész"
+    },
+    {
+        "sent": "A csimpánz nem használhatta a Linuxot, mert csak egy állat volt.",
+        "question": "Mi volt csak egy állat?",
+        "answerA": "a csimpánz",
+        "answerB": "a Linux",
+        "correct": "a csimpánz"
+    },
+    {
+        "sent": "A csimpánz nem használhatta a Linuxot, mert más parancsokat használ, mint a Windows.",
+        "question": "Mi haszbált más parancsokat, mint a Windows?",
+        "answerA": "a csimpánz",
+        "answerB": "a Linux",
+        "correct": "a Linux"
+    },
+    {
+        "sent": "Andris pofonvágta Zolit, mert udvariatlan volt Noémivel.",
+        "question": "Ki volt udvariatlan Noémivel?",
+        "answerA": "Andris",
+        "answerB": "Zoli",
+        "correct": "Zoli"
+    },
+    {
+        "sent": "Andris pofonvágta Zolit, mert meg akarta védeni Noémit.",
+        "question": "Ki akarta megvédeni Noémit?",
+        "answerA": "Andris",
+        "answerB": "Zoli",
+        "correct": "Andris"
+    },
+    {
+        "sent": "Kati kölcsönkért egy könyvet Erikától, de nem kapta vissza.",
+        "question": "Ki nem kapta vissza a könyvet?",
+        "answerA": "Kati",
+        "answerB": "Erika",
+        "correct": "Kati"
+    },
+    {
+        "sent": "Kati kölcsönkért egy könyvet Erikától, de nem adta vissza.",
+        "question": "Ki nem adta vissza a könyvet?",
+        "answerA": "Kati",
+        "answerB": "Erika",
+        "correct": "Erika"
+    },
+    {
+        "sent": "Vili szeretne Annával játszani, mert kedve van hozzá.",
+        "question": "Kinek van kedve hozzá?",
+        "answerA": "Vilinek",
+        "answerB": "Annának",
+        "correct": "Vilinek"
+    },
+    {
+        "sent": "Vili szeretne Annával játszani, de nincs kedve hozzá.",
+        "question": "Kinek nincs kedve hozzá?",
+        "answerA": "Vilinek",
+        "answerB": "Annának",
+        "correct": "Annának"
+    },
+    {
+        "sent": "Az eladó azt mondta Balázsnak, hogy ez lesz a legjobb autó, amit valaha vett.",
+        "question": "Ki vette az autót?",
+        "answerA": "az eladó",
+        "answerB": "Balázs",
+        "correct": "Balázs"
+    },
+    {
+        "sent": "Az eladó azt mondta Balázsnak, hogy ez lesz a legjobb autó, amit valaha eladott.",
+        "question": "Ki adta el az autót?",
+        "answerA": "az eladó",
+        "answerB": "Balázs",
+        "correct": "az eladó"
+    },
+    {
+        "sent": "A diák segítséget akart kérni a professzortól, de úgy döntött, hogy nem teszi, mert túlságosan félt.",
+        "question": "Ki félt?",
+        "answerA": "a diák",
+        "answerB": "a professzor",
+        "correct": "a diák"
+    },
+    {
+        "sent": "A diák segítséget akart kérni a professzortól, de úgy döntött, hogy nem teszi, mert túlságosan félelmetes volt.",
+        "question": "Ki volt félelmetes?",
+        "answerA": "a diák",
+        "answerB": "a professzor",
+        "correct": "a professzor"
+    },
+    {
+        "sent": "A diák nem értette a tanárt, mert akcentusa volt.",
+        "question": "Kinek volt akcentusa?",
+        "answerA": "a diáknak",
+        "answerB": "a tanárnak",
+        "correct": "a tanárnak"
+    },
+    {
+        "sent": "A diák nem értette a tanárt, mert nem figyelt oda.",
+        "question": "Ki nem figyelt oda?",
+        "answerA": "a diák",
+        "answerB": "a tanár",
+        "correct": "a diák"
+    },
+    {
+        "sent": "A táborozók felkapcsolták a zseblámpáikat, mert nélkülük sötét volt.",
+        "question": "Mik nélkül volt sötét?",
+        "answerA": "a táborozók nélkül",
+        "answerB": "a zseblámpák nélkül",
+        "correct": "a zseblámpák nélkül"
+    },
+    {
+        "sent": "A táborozók felkapcsolták a zseblámpáikat, mert féltek a sötéttől.",
+        "question": "Kik féltek a sötéttől?",
+        "answerA": "a tábozorók",
+        "answerB": "a zseblámpák",
+        "correct": "a tábozorók"
+    },
+    {
+        "sent": "Feri megállt és megnézte a pingvint, mert kíváncsi volt.",
+        "question": "Ki volt kíváncsi?",
+        "answerA": "Feri",
+        "answerB": "a pingvin",
+        "correct": "Feri"
+    },
+    {
+        "sent": "Feri megállt és megnézte a pingvint, mert aranyos volt.",
+        "question": "Ki volt aranyos?",
+        "answerA": "Feri",
+        "answerB": "a pingvin",
+        "correct": "a pingvin"
+    },
+    {
+        "sent": "A kampuszon kívüli lakásokat jobban szerették, mint a kampuszon belülieket, mert azok olcsóbbak voltak.",
+        "question": "Mik voltak olcsóbbak?",
+        "answerA": "a kampuszon kívüli lakások",
+        "answerB": "a kampuszon belüli lakások",
+        "correct": "a kampuszon kívüli lakások"
+    },
+    {
+        "sent": "A kampuszon kívüli lakásokat jobban szerették, mint a kampuszon belülieket, mert azok drágábbak voltak.",
+        "question": "Mik voltak drágábbak?",
+        "answerA": "a kampuszon kívüli lakások",
+        "answerB": "a kampuszon belüli lakások",
+        "correct": "a kampuszon belüli lakások"
+    },
+    {
+        "sent": "A tábornok rálőtt a pisztolyával a szörnyre, hogy elterelje a figyelmét.",
+        "question": "Ki terelje el a másik figyelmét?",
+        "answerA": "a tábornok",
+        "answerB": "a szörny",
+        "correct": "a tábornok"
+    },
+    {
+        "sent": "A tábornok rálőtt a pisztolyával a szörnyre, hogy megforduljon.",
+        "question": "Ki forduljon meg?",
+        "answerA": "a tábornok",
+        "answerB": "a szörny",
+        "correct": "a szörny"
+    },
+    {
+        "sent": "A Liverpool azért kapott ki a Manchester Unitedtől, mert az egész szezonban rosszul irányítottak.",
+        "question": "Kik irányítottak rosszul az egész szezonban?",
+        "answerA": "a Liverpool",
+        "answerB": "a Manchester United",
+        "correct": "a Liverpool"
+    },
+    {
+        "sent": "A Liverpool azért kapott ki a Manchester Unitedtől, mert jobb csapat volt.",
+        "question": "Kik voltak jobb csapat?",
+        "answerA": "a Liverpool",
+        "answerB": "a Manchester United",
+        "correct": "a Manchester United"
+    },
+    {
+        "sent": "A pirosak megverték a kékeket, pedig kezdő csapat voltak.",
+        "question": "Kik voltak kezdő csapat?",
+        "answerA": "a pirosak",
+        "answerB": "a kékek",
+        "correct": "a pirosak"
+    },
+    {
+        "sent": "A pirosak megverték a kékeket, mert jó csapat voltak.",
+        "question": "Kik voltak jó csapat?",
+        "answerA": "a pirosak",
+        "answerB": "a kékek",
+        "correct": "a kékek"
+    },
+    {
+        "sent": "Az állam azért végez ki rabokat, mert igazságot akarnak.",
+        "question": "Kik akarnak igazságot?",
+        "answerA": "az állam",
+        "answerB": "a rabok",
+        "correct": "az állam"
+    },
+    {
+        "sent": "Az állam azért végez ki rabokat, mert szörnyű bűnökért ítélték el őket.",
+        "question": "Kiket ítéltek el szörnyű bűnökért?",
+        "answerA": "az államot",
+        "answerB": "a rabokat",
+        "correct": "a rabok"
+    },
+    {
+        "sent": "Pali épített anyának egy háztartási robotot, hogy odaadja neki ajándékba.",
+        "question": "Ki adja oda a másiknak ajándékba?",
+        "answerA": "Pali",
+        "answerB": "anya",
+        "correct": "Pali"
+    },
+    {
+        "sent": "Pali épített anyának egy háztartási robotot, hogy több szabadideje legyen.",
+        "question": "Kinek legyen több szabadideje?",
+        "answerA": "Palinak",
+        "answerB": "anyának",
+        "correct": "anyának"
+    },
+    {
+        "sent": "A szív pumpálja a vért, mert folyékony.",
+        "question": "Mi folyékony?",
+        "answerA": "a szív",
+        "answerB": "a vér",
+        "correct": "a vér"
+    },
+    {
+        "sent": "A szív pumpálja a vért, mert egy erős izom.",
+        "question": "Mi egy erős izom?",
+        "answerA": "a szív",
+        "answerB": "a vér",
+        "correct": "a szív"
+    },
+    {
+        "sent": "Jolinak jobb az illata, mint Arankánnak, mert rendszeresen zuhanyozik.",
+        "question": "Ki zuhanyozik rendszeresen?",
+        "answerA": "Joli",
+        "answerB": "Aranka",
+        "correct": "Joli"
+    },
+    {
+        "sent": "Jolinak jobb az illata, mint Arankának, mert ő alig zuhanyozik.",
+        "question": "Ki zuhanyozik alig?",
+        "answerA": "Joli",
+        "answerB": "Aranka",
+        "correct": "Aranka"
+    },
+    {
+        "sent": "A toll erősebb a kardnál, mert csak szúrni tud.",
+        "question": "Mi tud csak szúrni?",
+        "answerA": "a toll",
+        "answerB": "a kard",
+        "correct": "a kard"
+    },
+    {
+        "sent": "A toll erősebb a kardnál, mert világmegváltó gondolatokat lehet vele leírni.",
+        "question": "Mivel lehet világmegváltó gondolatokat írni?",
+        "answerA": "a tollal",
+        "answerB": "a karddal",
+        "correct": "a toll"
+    },
+    {
+        "sent": "A macskák azért támadtak az emberekre, mert elvadultak.",
+        "question": "Kik vadultak el?",
+        "answerA": "a macskák",
+        "answerB": "az emberek",
+        "correct": "a macskák"
+    },
+    {
+        "sent": "A macskák azért támadtak az emberekre, mert halszaguk volt.",
+        "question": "Kiknek volt halszaguk?",
+        "answerA": "a macskáknak",
+        "answerB": "az embereknek",
+        "correct": "az embereknek"
+    },
+    {
+        "sent": "Tomi meg tudja verni Gézát szkanderben, mert izmosabb.",
+        "question": "Ki izmosabb?",
+        "answerA": "Tomi",
+        "answerB": "Géza",
+        "correct": "Tomi"
+    },
+    {
+        "sent": "Tomi meg tudja verni Gézát szkanderben, mert még csak egy kisgyerek.",
+        "question": "Ki kisgyerek?",
+        "answerA": "Tomi",
+        "answerB": "Géza",
+        "correct": "Géza"
+    },
+    {
+        "sent": "Donát megrúgta Ambrust, de nem sírt.",
+        "question": "Ki nem sírt?",
+        "answerA": "Donát",
+        "answerB": "Ambrus",
+        "correct": "Ambrus"
+    },
+    {
+        "sent": "Donát megrúgta Ambrust, de nem bánta meg.",
+        "question": "Ki nem bánta meg?",
+        "answerA": "Donát",
+        "answerB": "Ambrus",
+        "correct": "Donát"
+    },
+    {
+        "sent": "Pisti azért találkozott Rolival, mert megkérték rá.",
+        "question": "Kit kértek meg rá?",
+        "answerA": "Pistit",
+        "answerB": "Rolit",
+        "correct": "Pistit"
+    },
+    {
+        "sent": "Pisti azért találkozott Rolival, mert megkérte rá.",
+        "question": "Ki kérte meg rá a másikat?",
+        "answerA": "Pisti",
+        "answerB": "Roli",
+        "correct": "Roli"
+    },
+    {
+        "sent": "Mari odaadta Sárinak a könyvét, mert szüksége volt rá.",
+        "question": "Kinek volt szüksége a könyvre?",
+        "answerA": "Marinak",
+        "answerB": "Sárinak",
+        "correct": "Sárinak"
+    },
+    {
+        "sent": "Mari odaadta Sárinak a könyvét, mert nagylelkű.",
+        "question": "Ki nagylelkű?",
+        "answerA": "Mari",
+        "answerB": "Sári",
+        "correct": "Mari"
+    },
+    {
+        "sent": "János meglátogatta Lacit a kórházban, mert beteg volt.",
+        "question": "Ki volt beteg?",
+        "answerA": "János",
+        "answerB": "Laci",
+        "correct": "Laci"
+    },
+    {
+        "sent": "János meglátogatta Lacit a kórházban, mert a közelben lakott.",
+        "question": "Ki lakott a közelben?",
+        "answerA": "János",
+        "answerB": "Laci",
+        "correct": "János"
+    },
+    {
+        "sent": "János felvette Bélát, mert szüksége volt valakire.",
+        "question": "Kinek volt szüksége valakire?",
+        "answerA": "Jánosnak",
+        "answerB": "Bélának",
+        "correct": "Jánosnak"
+    },
+    {
+        "sent": "János kirúgta Bélát, mert alkalmatlan volt.",
+        "question": "Ki volt alkalmatlan?",
+        "answerA": "János",
+        "answerB": "Béla",
+        "correct": "Béla"
+    },
+    {
+        "sent": "János bemutatta Bélát, mert mindenkit ismert.",
+        "question": "Ki ismert mindenkit?",
+        "answerA": "János",
+        "answerB": "Béla",
+        "correct": "János"
+    },
+    {
+        "sent": "János bemutatta Bélát, mert új volt.",
+        "question": "Ki volt új?",
+        "answerA": "János",
+        "answerB": "Béla",
+        "correct": "Béla"
+    },
+    {
+        "sent": "Niki lelőtte Istvánt, ezért börtönbe került.",
+        "question": "Ki került börtönbe?",
+        "answerA": "Niki",
+        "answerB": "István",
+        "correct": "Niki"
+    },
+    {
+        "sent": "Niki lelőtte Istvánt, ezért meghalt.",
+        "question": "Ki halt meg?",
+        "answerA": "Niki",
+        "answerB": "István",
+        "correct": "István"
+    },
+    {
+        "sent": "Az Őrült Kalapos megpróbálta megkínálni egy csésze teával a Márciusi Nyulat, de a kalapja túlságosan zavaró volt.",
+        "question": "Kinek a kalapja volt túlságosan zavaró?",
+        "answerA": "az Őrült Kalaposnak",
+        "answerB": "a Márciusi Nyúlnak",
+        "correct": "az Őrült Kalaposnak"
+    },
+    {
+        "sent": "Az Őrült Kalapos megpróbálta megkínálni egy csésze teával a márciusi nyulat, de a hosszú fülei túlságosan zavaróak voltak.",
+        "question": "Kinek a hosszú fülei voltak túlságosan zavaróak?",
+        "answerA": "az Őrült Kalaposnak",
+        "answerB": "a Márciusi Nyúlnak",
+        "correct": "a Márciusi Nyúlnak"
+    },
+    {
+        "sent": "Richárd megzsarolta a szenátort, hogy biztosítsa a hallgatását.",
+        "question": "Kinek a hallgatását biztosítsa?",
+        "answerA": "Richárdnak",
+        "answerB": "a szenátornak",
+        "correct": "a szenátornak"
+    },
+    {
+        "sent": "Richárd megzsarolta a szenátort, hogy biztosítsa a hatalomra jutását.",
+        "question": "Kinek a hatalomra jutását biztosítsa?",
+        "answerA": "Richárdnak",
+        "answerB": "a szenátornak",
+        "correct": "Richárdnak"
+    },
+    {
+        "sent": "A hagyomány szerint a csapatkapitány emeli fel először a kupát, ami nagyon csillogó volt.",
+        "question": "Mi volt nagyon csillogó?",
+        "answerA": "a hagyomány",
+        "answerB": "a kupa",
+        "correct": "a kupa"
+    },
+    {
+        "sent": "A hagyomány szerint a csapatkapitány emeli fel először a kupát, amit mindig követni kell.",
+        "question": "Mit kell mindig követni?",
+        "answerA": "a hagyományt",
+        "answerB": "a kupát",
+        "correct": "a hagyományt"
+    },
+    {
+        "sent": "Az ütő elütötte a labdát, mert arra tervezték, hogy eltalálja.",
+        "question": "Mit terveztek arra, hogy eltalálja a másikat?",
+        "answerA": "az ütőt",
+        "answerB": "a labdát",
+        "correct": "az ütőt"
+    },
+    {
+        "sent": "Az ütő elütötte a labdát, mert arra tervezték, hogy messzire szálljon.",
+        "question": "Mit terveztek arra, hogy messzire szálljon?",
+        "answerA": "az ütőt",
+        "answerB": "a labdát",
+        "correct": "a labdát"
+    },
+    {
+        "sent": "A program azért tudta sikeresen elemezni a fájlt, mert jól volt programozva.",
+        "question": "Mi volt jól programozva?",
+        "answerA": "a program",
+        "answerB": "a fájl",
+        "correct": "a program"
+    },
+    {
+        "sent": "A program azért tudta sikeresen elemezni a fájlt, mert jól volt formázva.",
+        "question": "Mi volt jól formázva?",
+        "answerA": "a program",
+        "answerB": "a fájl",
+        "correct": "a fájl"
+    },
+    {
+        "sent": "A rendőrség keresi a gyújtogatókat, mert felgyújtották a fővárost.",
+        "question": "Kik gyújtották fel a fővárost?",
+        "answerA": "a gyújtogatók",
+        "answerB": "a rendőrség",
+        "correct": "a gyújtogatók"
+    },
+    {
+        "sent": "A rendőrség keresi a gyújtogatókat, mert még nem jutottak eredményre.",
+        "question": "Kik nem jutottka eredményre?",
+        "answerA": "a gyújtogatók",
+        "answerB": "a rendőrség",
+        "correct": "a rendőrség"
+    },
+    {
+        "sent": "A bajnokok azután kapták meg a díjakat, hogy győztek.",
+        "question": "Kik győztek?",
+        "answerA": "a bajnokok",
+        "answerB": "a díjak",
+        "correct": "a bajnokok"
+    },
+    {
+        "sent": "A bajnokok azután kapták meg a díjakat, hogy elkészültek.",
+        "question": "Mik készültek el?",
+        "answerA": "a bajnokok",
+        "answerB": "a díjak",
+        "correct": "a díjak"
+    },
+    {
+        "sent": "A szomszéd medencéjébe beugrott egy idegen. Nagy karcsapásokkal úszott.",
+        "question": "Ki úszott?",
+        "answerA": "a szomszéd",
+        "answerB": "az idegen",
+        "correct": "az idegen"
+    },
+    {
+        "sent": "A szomszéd medencéjébe beugrott egy idegen. Nagyokat nézett.",
+        "question": "Ki nézett nagyokat?",
+        "answerA": "a szomszéd",
+        "answerB": "az idegen",
+        "correct": "a szomszéd"
+    },
+    {
+        "sent": "A csapat széttépte a jelentést, hogy újat írhasson.",
+        "question": "MI írhasson újat?",
+        "answerA": "a csapat",
+        "answerB": "a jelentés",
+        "correct": "a csapat"
+    },
+    {
+        "sent": "A csapat széttépte a jelentést, hogy új készülhessen.",
+        "question": "Miből készülhessen új?",
+        "answerA": "a csapatból",
+        "answerB": "a jelentésből",
+        "correct": "a jelentésből"
+    },
+    {
+        "sent": "Barni megkérdezte Tomit, hogy elviheti-e moziba.",
+        "question": "Ki viheti el a másikat moziba?",
+        "answerA": "Barni",
+        "answerB": "Tomi",
+        "correct": "Barni"
+    },
+    {
+        "sent": "Barni megkérdezte Tomit, hogy tudna-e kölcsönadni egy kis pénzt.",
+        "question": "Ki tudna kölcsönadni egy kis pénzt a másiknak?",
+        "answerA": "Barni",
+        "answerB": "Tomi",
+        "correct": "Tomi"
+    },
+    {
+        "sent": "Hugó megütötte Flóriánt, mert idegesítően viselkedett.",
+        "question": "Ki viselkedett idegesítően?",
+        "answerA": "Hugó",
+        "answerB": "Flórián",
+        "correct": "Flórián"
+    },
+    {
+        "sent": "Hugó megütötte Flóriánt, mert megkérték rá.",
+        "question": "Kit kértek meg rá?",
+        "answerA": "Hugót",
+        "answerB": "Flóriánt",
+        "correct": "Hugót"
+    },
+    {
+        "sent": "Nándi megütötte Marcit, de nem sérült meg.",
+        "question": "Ki nem sérült meg?",
+        "answerA": "Nándi",
+        "answerB": "Marci",
+        "correct": "Marci"
+    },
+    {
+        "sent": "Nándi megütötte Marcit, de nem kaptál el.",
+        "question": "Kit nem kaptak el?",
+        "answerA": "Nándit",
+        "answerB": "Marcit",
+        "correct": "Nándi"
+    },
+    {
+        "sent": "A sellő Zsuzsi felé úszott, amikor segítségért kiabált.",
+        "question": "Ki kiabált segítségért?",
+        "answerA": "a sellő",
+        "answerB": "Zsuzsi",
+        "correct": "Zsuzsi"
+    },
+    {
+        "sent": "A sellő Zsuzsi felé úszott, amikor elérte a partot.",
+        "question": "Ki érte el a partot?",
+        "answerA": "a sellő",
+        "answerB": "Zsuzsi",
+        "correct": "a sellő"
+    },
+    {
+        "sent": "Az anyamedve megtámadta Evelint, mert túl közel ment a kölykéhez.",
+        "question": "Ki ment túl közel a kölyökhöz?",
+        "answerA": "az anyamedve",
+        "answerB": "Evelin",
+        "correct": "Evelin"
+    },
+    {
+        "sent": "Az anyamedve megtámadta Evelint, mert aggódott a kölyke miatt.",
+        "question": "Ki addódott a kölyke miatt?",
+        "answerA": "az anyamedve",
+        "answerB": "Evelin",
+        "correct": "az anyamedve"
+    },
+    {
+        "sent": "Mari rámosolygott Zsuzsira, de nem mosolygott vissza.",
+        "question": "Ki nem mosolygott vissza?",
+        "answerA": "Mari",
+        "answerB": "Zsuzsi",
+        "correct": "Zsuzsi"
+    },
+    {
+        "sent": "Mari rámosolygott Zsuzsira, de nem ment közelebb.",
+        "question": "KI nem ment közelebb?",
+        "answerA": "Mari",
+        "answerB": "Zsuzsi",
+        "correct": "Mari"
+    },
+    {
+        "sent": "A pióca felkapaszkodott a vízilóra, hogy élvezhesse a napsütést.",
+        "question": "Mi élvezhesse a napsütést?",
+        "answerA": "a pióca",
+        "answerB": "a víziló",
+        "correct": "a pióca"
+    },
+    {
+        "sent": "A pióca felkapaszkodott a vízilóra, mert szép volt a kilátás róla.",
+        "question": "Miről volt szép a kilátás?",
+        "answerA": "a piócáról",
+        "answerB": "a vízilóról",
+        "correct": "a vízilóról"
+    },
+    {
+        "sent": "Az emberek tiltakoztak a politikusok ellen, mert éhesek voltak.",
+        "question": "Kik voltak éhesek?",
+        "answerA": "az emberek",
+        "answerB": "a politikusok",
+        "correct": "az emberek"
+    },
+    {
+        "sent": "Az emberek azért tiltakoztak a politikusok ellen, mert megemelték az adókat.",
+        "question": "Kik emelték meg az adókat?",
+        "answerA": "az emberek",
+        "answerB": "a politikusok",
+        "correct": "a politikusok"
+    },
+    {
+        "sent": "Azért ittam a sört lime-mal, mert hideg volt.",
+        "question": "Mi volt hideg?",
+        "answerA": "a sör",
+        "answerB": "a lime",
+        "correct": "a sör"
+    },
+    {
+        "sent": "Azért ittam a sört lime-mal, mert savanyú volt.",
+        "question": "Mi volt savanyú?",
+        "answerA": "a sör",
+        "answerB": "a lime",
+        "correct": "a lime"
+    },
+    {
+        "sent": "A munkaadó arról beszélt a munkavállalónak, hogy lojális hozzá.",
+        "question": "Ki volt lojális?",
+        "answerA": "a munkaadó",
+        "answerB": "a munkavállaló",
+        "correct": "a munkavállaló"
+    },
+    {
+        "sent": "A munkáltató arról beszélt a munkavállalónak, hogy kirúgja őt.",
+        "question": "Ki rúgta ki a másikat?",
+        "answerA": "a munkaadó",
+        "answerB": "a munkavállaló",
+        "correct": "a munkaadó"
+    },
+    {
+        "sent": "A csirke üldözött egy bogarat. Megette.",
+        "question": "Mi ette meg a másikat?",
+        "answerA": "a csirke",
+        "answerB": "a bogár",
+        "correct": "a csirke"
+    },
+    {
+        "sent": "A csirke üldözött egy bogarat. El tudott menekülni.",
+        "question": "Mi tudott elmenekülni?",
+        "answerA": "a csirke",
+        "answerB": "a bogár",
+        "correct": "a bogár"
+    },
+    {
+        "sent": "A kutyák utálják a bolhákat, mert vért szívnak.",
+        "question": "Mik szívnak vért?",
+        "answerA": "a kutyák",
+        "answerB": "a bolhák",
+        "correct": "a bolhák"
+    },
+    {
+        "sent": "A kutyák utálják a bolhákat, mert utálják a bogarakat.",
+        "question": "Mik utálják a bogarakat?",
+        "answerA": "a kutyák",
+        "answerB": "a bolhák",
+        "correct": "a kutyák"
+    },
+    {
+        "sent": "Steven Seagal kihívta Jean Claude Van Damme-ot egy bunyóra, mert be akarta bizonyítani, hogy ő az erősebb.",
+        "question": "Ki akarta bebizonyítani, hogy ő az erősebb?",
+        "answerA": "Steven Seagal",
+        "answerB": "Jean Claude Van Damme",
+        "correct": "Steven Seagal"
+    },
+    {
+        "sent": "Steven Seagal kihívta Jean Claude Van Damme-ot egy küzdelemre, mert méltó ellenfél.",
+        "question": "Ki méltó ellenfél?",
+        "answerA": "Steven Seagal",
+        "answerB": "Jean Claude Van Damme",
+        "correct": "Jean Claude Van Damme"
+    },
+    {
+        "sent": "A lányok szeretik a kiskutyákat, mert nagyon cukik.",
+        "question": "Mik cukik?",
+        "answerA": "a lányok",
+        "answerB": "a kiskutyák",
+        "correct": "a kiskutyák"
+    },
+    {
+        "sent": "A lányok szeretik a kiskutyákat, mert minden cuki dolgot szeretnek.",
+        "question": "Kik szeretnek minden cuki dolgot?",
+        "answerA": "a lányok",
+        "answerB": "a kiskutyák",
+        "correct": "a lányok"
+    },
+    {
+        "sent": "Jaki több szavazatot kapott Pistinél, mert többen szerették.",
+        "question": "Kit szerettek többen?",
+        "answerA": "Jakit",
+        "answerB": "Pistit",
+        "correct": "Jakit"
+    },
+    {
+        "sent": "Jaki több szavazatot kapott Pistinél, mert kevesebben szerették.",
+        "question": "Kit szerettek kevesebben?",
+        "answerA": "Jakit",
+        "answerB": "Pistit",
+        "correct": "Pistit"
+    },
+    {
+        "sent": "Az autó elrobogott a kamion mellett, mert túl lassan ment.",
+        "question": "Mi ment túl lassan?",
+        "answerA": "az autó",
+        "answerB": "a kamion",
+        "correct": "a kamion"
+    },
+    {
+        "sent": "Az autó elrobogott a kamion mellett, mert gyorsabban ment.",
+        "question": "Mi ment gyorsabban?",
+        "answerA": "az autó",
+        "answerB": "a kamion",
+        "correct": "az autó"
+    },
+    {
+        "sent": "Az én telefonom sokkal jobban működik a tiédnél, mert újabb modell.",
+        "question": "Kinek a telefonja újabb modell?",
+        "answerA": "az enyém",
+        "answerB": "a tiéd",
+        "correct": "az enyém"
+    },
+    {
+        "sent": "Az én telefonom sokkal jobban működik a tiédnél, mert elavultabb.",
+        "question": "Kinek a telefonja elavultabb?",
+        "answerA": "az enyém",
+        "answerB": "a tiéd",
+        "correct": "a tiéd"
+    },
+    {
+        "sent": "Olgi Erzsit szerette volna utódjának, mert alkalmas rá.",
+        "question": "Ki alkalmas?",
+        "answerA": "Olgi",
+        "answerB": "Erzsi",
+        "correct": "Erzsi"
+    },
+    {
+        "sent": "Olgi Erzsit szerette volna utódjának, mert szeretne lemondani.",
+        "question": "Ki szeretne lemondani?",
+        "answerA": "Olgi",
+        "answerB": "Erzsi",
+        "correct": "Olgi"
+    },
+    {
+        "sent": "Samu megpróbálta megjavítani az öreg tragacsát, noha már három évtizede nem indult be.",
+        "question": "Mi nem indult be már három évtizede?",
+        "answerA": "Samu",
+        "answerB": "az öreg tragacsa",
+        "correct": "az öreg tragacsa"
+    },
+    {
+        "sent": "Samu megpróbálta megjavítani az öreg tragacsát, noha már három évtizede nem szerelt autót.",
+        "question": "Ki nem szerelt autót már három évtizede?",
+        "answerA": "Samu",
+        "answerB": "az öreg tragacsa",
+        "correct": "Samu"
+    },
+    {
+        "sent": "A szellem jött-ment a házban, mert kísértett.",
+        "question": "Mi kísértett?",
+        "answerA": "a szellem",
+        "answerB": "a ház",
+        "correct": "a szellem"
+    },
+    {
+        "sent": "A szellem jött-ment a házban, mert elátkozott volt.",
+        "question": "Mi volt elátkozott?",
+        "answerA": "a szellem",
+        "answerB": "a ház",
+        "correct": "a ház"
+    },
+    {
+        "sent": "A fiú elbújt a rendőr elől. Folytatta a menekülést.",
+        "question": "Ki folytatta a menekülést?",
+        "answerA": "a fiú",
+        "answerB": "a rendőr",
+        "correct": "a fiú"
+    },
+    {
+        "sent": "A fiú elbújt a rendőr elől. Folytatta a keresést.",
+        "question": "Ki folytatta a keresést?",
+        "answerA": "a fiú",
+        "answerB": "a rendőr",
+        "correct": "a rendőr"
+    },
+    {
+        "sent": "A tű megszúrta a bőrt, de nem érzékelte a fájdalmat.",
+        "question": "Mi nem érzékelte a fájdalmat?",
+        "answerA": "a tű",
+        "answerB": "a bőr",
+        "correct": "a bőr"
+    },
+    {
+        "sent": "A tű megszúrta a bőrt, de nem okozott fájdalmat.",
+        "question": "Mi nem okozott fájdalmat?",
+        "answerA": "a tű",
+        "answerB": "a bőr",
+        "correct": "a tű"
+    },
+    {
+        "sent": "Az oroszlán látta a halatt. Lecsapott rá.",
+        "question": "Mi csapott le a másikra?",
+        "answerA": "az oroszlán",
+        "answerB": "a hal",
+        "correct": "az oroszlán"
+    },
+    {
+        "sent": "Az oroszlán látta a halat. Úszott a vízben.",
+        "question": "Mi úszott a vízben?",
+        "answerA": "az oroszlán",
+        "answerB": "a hal",
+        "correct": "a hal"
+    },
+    {
+        "sent": "A bohóc rámosolygott a kisgyerekre. Elsírta magát.",
+        "question": "Ki sírta el magát?",
+        "answerA": "a bohóc",
+        "answerB": "a kisfiú",
+        "correct": "a kisfiú"
+    },
+    {
+        "sent": "A bohóc rámosolygott a kisgyerekre. Felfújt egy lufit is.",
+        "question": "Ki fújt fel egy lufit is?",
+        "answerA": "a bohóc",
+        "answerB": "a kisfiú",
+        "correct": "a bohóc"
+    },
+    {
+        "sent": "A tudós odaadta a csimpánznak a banánt, mert éhes volt.",
+        "question": "Mi volt éhes?",
+        "answerA": "a csimpánz",
+        "answerB": "a banán",
+        "correct": "a csimpánz"
+    },
+    {
+        "sent": "A tudós odaadta a csimpánznak a banánt, mert érett volt.",
+        "question": "Mi volt érett?",
+        "answerA": "a csimpánz",
+        "answerB": "a banán",
+        "correct": "a banán"
+    },
+    {
+        "sent": "A főnök kirúgta az alkalmazottat, amikor már nem teljesített jól.",
+        "question": "Ki nem teljesített már jól?",
+        "answerA": "a főnök",
+        "answerB": "az alkalmazott",
+        "correct": "az alkalmazott"
+    },
+    {
+        "sent": "A főnök kirúgta az alkalmazottat, amikor behívta az irodájába.",
+        "question": "Ki hívta be a másikat az irodájába?",
+        "answerA": "a főnök",
+        "answerB": "az alkalmazott",
+        "correct": "a főnök"
+    },
+    {
+        "sent": "A konnektor áramot adott a lámpának, amikor volt benne áram.",
+        "question": "Miben volt áram?",
+        "answerA": "a konnektor",
+        "answerB": "a lámpa",
+        "correct": "a konnektor"
+    },
+    {
+        "sent": "A konnektor áramot adott a lámpának, amikor be volt dugva.",
+        "question": "Mi volt bedugva?",
+        "answerA": "a konnektor",
+        "answerB": "a lámpa",
+        "correct": "a lámpa"
+    },
+    {
+        "sent": "A paintball-játékos dühös volt a játékvezetőre, mert nem vett észre egy találatot.",
+        "question": "Ki nem vett észre egy találatot?",
+        "answerA": "A paintball-játékos",
+        "answerB": "A játékvezető",
+        "correct": "A játékvezető"
+    },
+    {
+        "sent": "A paintball-játékos dühös volt a játékvezetőre, mert kiállították, pedig nem kellett volna.",
+        "question": "Kit állítottak ki?",
+        "answerA": "A paintball-játékost",
+        "answerB": "A játékvezetőt",
+        "correct": "A paintball-játékost"
+    },
+    {
+        "sent": "A csatorna törölte a TV műsort a kínálatból, mert nem mentek jól.",
+        "question": "Kik nem mentek jól?",
+        "answerA": "a csatorna",
+        "answerB": "a TV műsor",
+        "correct": "a TV műsor"
+    },
+    {
+        "sent": "A csatorna törölte a TV műsort a kínálatból, mert nem tetszett nekik a műsorvezető.",
+        "question": "Kiknek nem tetszett a műsorvezető?",
+        "answerA": "a csatornának",
+        "answerB": "a TV műsornak",
+        "correct": "a csatornának"
+    },
+    {
+        "sent": "A párduc utolérte az antilopot, így meg tudta enni.",
+        "question": "Mi tudta megenni a másikat?",
+        "answerA": "a párduc",
+        "answerB": "az antilop",
+        "correct": "a párduc"
+    },
+    {
+        "sent": "A párduc utolérte az antilopot, így megették.",
+        "question": "Mit ettek meg?",
+        "answerA": "a párduct",
+        "answerB": "az antilopot",
+        "correct": "az antilopot"
+    },
+    {
+        "sent": "A billentyűk azért gépelték be a szavakat, mert arra szánták őket, hogy be legyenek írva.",
+        "question": "Miket szántak arra, hogy be legyenek írva?",
+        "answerA": "A billentyűket",
+        "answerB": "A szavakat",
+        "correct": "A szavakat"
+    },
+    {
+        "sent": "A billentyűk beírták a szavakat, mert arra szánták őket, hogy beírjanak rajtuk.",
+        "question": "Miket szántak arra, hogy beírjanak rajtuk?",
+        "answerA": "A billentyűket",
+        "answerB": "A szavakat",
+        "correct": "A billentyűket"
+    },
+    {
+        "sent": "A röplabdások bosszankodtak a többi diákon a sportközpontban, mert a röplabda pályákat tollaslabdázásra használták.",
+        "question": "Kik használták tollaslabdázásra a röplabda pályákat?",
+        "answerA": "A röplabdások",
+        "answerB": "A többi diák",
+        "correct": "A többi diák"
+    },
+    {
+        "sent": "A röplabdások bosszankodtak a többi diákon a sportközpontban, mert játszani akartak, de nem tudtak.",
+        "question": "Kik akartak volna játszani?",
+        "answerA": "A röplabdások",
+        "answerB": "A többi diák",
+        "correct": "A röplabdások"
+    },
+    {
+        "sent": "A tanárok leszidják a diákokat, mert nem tanulták meg az anyagot.",
+        "question": "Kik nem tanulták meg az anyagot?",
+        "answerA": "a tanárok",
+        "answerB": "a diákok",
+        "correct": "a diákok"
+    },
+    {
+        "sent": "A tanárok leszidják a diákokat, mert fegyelmet akarnak tartani. ",
+        "question": "Kik akarnak fegyelmet tartani?",
+        "answerA": "a tanárok",
+        "answerB": "a diákok",
+        "correct": "a tanárok"
+    },
+    {
+        "sent": "A repülő az égen repült. Gyors volt.",
+        "question": "Mi volt gyors?",
+        "answerA": "a repülő",
+        "answerB": "az ég",
+        "correct": "a repülő"
+    },
+    {
+        "sent": "A repülő az égen repült. Felhős volt.",
+        "question": "Mi volt felhős?",
+        "answerA": "a repülő",
+        "answerB": "az ég",
+        "correct": "az ég"
+    },
+    {
+        "sent": "Jenő belerohant Mikibe, ezért ki kellett fizetnie a károkat.",
+        "question": "Kinek kellett kifizetnie a károkat?",
+        "answerA": "Jenőnek",
+        "answerB": "Mikinek",
+        "correct": "Jenőnek"
+    },
+    {
+        "sent": "Jenő belerohant Mikibe, ezért rettenetesen megharagudott rá.",
+        "question": "Ki haragudott meg a másikra?",
+        "answerA": "Jenő",
+        "answerB": "Miki",
+        "correct": "Miki"
+    },
+    {
+        "sent": "A férfi lelőtte a barátját. Meghalt.",
+        "question": "Ki halt meg?",
+        "answerA": "a férfi",
+        "answerB": "a barátja",
+        "correct": "a barátja"
+    },
+    {
+        "sent": "A férfi lelőtte a barátját. Letartóztatták.",
+        "question": "Kit tartóztattak le?",
+        "answerA": "a férfi",
+        "answerB": "a barátja",
+        "correct": "a férfi"
+    },
+    {
+        "sent": "A férfi megölte a főnökét, mert utálta a munkáját.",
+        "question": "Ki utálta a munkáját?",
+        "answerA": "a férfi",
+        "answerB": "a főnöke",
+        "correct": "a férfi"
+    },
+    {
+        "sent": "A férfi megölte a főnökét, mert ki akarta rúgni.",
+        "question": "Ki akarta kirúgni a másikat?",
+        "answerA": "a férfi",
+        "answerB": "a főnöke",
+        "correct": "a főnöke"
+    },
+    {
+        "sent": "Jani megmérkőzött Sanyival, mert úgy gondolta, hogy győzni fog.",
+        "question": "Ki gondolta úgy, hogy győzni fog?",
+        "answerA": "Jani",
+        "answerB": "Sanyi",
+        "correct": "Jani"
+    },
+    {
+        "sent": "Jani megmérkőzött Sanyival, mert könnyű ellenfél volt.",
+        "question": "Ki volt könnyű ellenfél?",
+        "answerA": "Jani",
+        "answerB": "Sanyi",
+        "correct": "Sanyi"
+    },
+    {
+        "sent": "A fény elérte a tükröt, és visszatükröződött.",
+        "question": "Mi tükröződött vissza?",
+        "answerA": "A fény",
+        "answerB": "A tükör",
+        "correct": "A fény"
+    },
+    {
+        "sent": "A tükröt eltalálta a fény, és összetört.",
+        "question": "Mi tört össze?",
+        "answerA": "A fény",
+        "answerB": "A tükör",
+        "correct": "A tükör"
+    },
+    {
+        "sent": "A Google Plus várhatóan a Facebook utódja lesz, de még mindig nincs elég aktív felhasználója.",
+        "question": "Minek nincs még mindig elég aktív felhasználója",
+        "answerA": "a Google Plusnak",
+        "answerB": "a Facebooknak",
+        "correct": "a Google Plusnak"
+    },
+    {
+        "sent": "A Google Plus várhatóan a Facebook utódja lesz, de még mindig sokkal több aktív felhasználója van.",
+        "question": "Minek van még mindig sokkal több aktív felhasználója?",
+        "answerA": "a Google Plusnak",
+        "answerB": "a Facebooknak",
+        "correct": "a Facebooknak"
+    },
+    {
+        "sent": "A lándzsa könnyen áthatolt a páncélon, mert túl éles volt.",
+        "question": "Mi volt túl éles?",
+        "answerA": "a lándzsa",
+        "answerB": "a páncél",
+        "correct": "a lándzsa"
+    },
+    {
+        "sent": "A lándzsa könnyen áthatolt a páncélon, mert túl vékony volt.",
+        "question": "Mi volt túl vékony?",
+        "answerA": "a lándzsa",
+        "answerB": "a páncél",
+        "correct": "a páncél"
+    },
+    {
+        "sent": "A macska elkapta az egeret, mert ügyes volt.",
+        "question": "Mi volt ügyes?",
+        "answerA": "a macska",
+        "answerB": "az egér",
+        "correct": "a macska"
+    },
+    {
+        "sent": "A macska elkapta az egeret, mert ügyetlen volt.",
+        "question": "Mi volt ügyetlen?",
+        "answerA": "a macska",
+        "answerB": "az egér",
+        "correct": "az egér"
+    },
+    {
+        "sent": "Józsi nem győzte le Marit a fogadásban, így 100 dollárt veszített.",
+        "question": "Ki veszített 100 dollárt?",
+        "answerA": "Józsi",
+        "answerB": "Mari",
+        "correct": "Józsi"
+    },
+    {
+        "sent": "Józsi nem győzte le Marit a fogadásban, így 100 dollárt nyert.",
+        "question": "Ki nyert 100 dollárt?",
+        "answerA": "Józsi",
+        "answerB": "Mari",
+        "correct": "Mari"
+    },
+    {
+        "sent": "Ádámnak nem sikerült megölnie Sándort, ezért testőrt fogadott fel, ha másodszor is próbálkozna.",
+        "question": "Ki fogadott fel testőrt?",
+        "answerA": "Ádám",
+        "answerB": "Sándor",
+        "correct": "Sándor"
+    },
+    {
+        "sent": "Ádámnak nem sikerült megölnie Sándort, ezért egy bérgyilkost bérelt fel a második kísérletre.",
+        "question": "Ki bérelt fel egy bérgyilkost?",
+        "answerA": "Ádám",
+        "answerB": "Sándor",
+        "correct": "Ádám"
+    },
+    {
+        "sent": "A ruhán volt egy szakadás, ezért befoltoztam.",
+        "question": "Mit foltoztam be?",
+        "answerA": "a ruhát",
+        "answerB": "a szakadást",
+        "correct": "a szakadást"
+    },
+    {
+        "sent": "A ruhán volt egy szakadás, ezért kidobtam.",
+        "question": "Mit dobtam ki?",
+        "answerA": "a ruhát",
+        "answerB": "a szakadást",
+        "correct": "a ruhát"
+    },
+    {
+        "sent": "A diák szólt az oktatónak, hogy beteg.",
+        "question": "Ki beteg?",
+        "answerA": "a diák",
+        "answerB": "az oktató",
+        "correct": "a diák"
+    },
+    {
+        "sent": "A diák szólt az oktatónak, hogy túl gyorsan beszél.",
+        "question": "Ki beszél túl gyorsan?",
+        "answerA": "a diák",
+        "answerB": "az oktató",
+        "correct": "az oktató"
+    },
+    {
+        "sent": "Joli betette Erikát az időgépbe. A jövőbe ment kalandozni.",
+        "question": "Ki ment a jövőbe kalandozni?",
+        "answerA": "Joli",
+        "answerB": "Erika",
+        "correct": "Erika"
+    },
+    {
+        "sent": "Joli betette Erikát az időgépbe. Egy új időgépet kísérletezett ki.",
+        "question": "Ki kísérletezett ki egy új időgépet?",
+        "answerA": "Joli",
+        "answerB": "Erika",
+        "correct": "Joli"
+    },
+    {
+        "sent": "Ervin megkérdezte Józsit, hogy kölcsönkérhet-e egy kis pénzt.",
+        "question": "Ki kérhet kölcsön egy kis pénzt?",
+        "answerA": "Ervin",
+        "answerB": "Józsi",
+        "correct": "Ervin"
+    },
+    {
+        "sent": "Ervin megkérdezte Józsit, hogy van-e pénze.",
+        "question": "Kinek van-e pénze?",
+        "answerA": "Ervinnek",
+        "answerB": "Józsinak",
+        "correct": "Józsinak"
+    },
+    {
+        "sent": "A séf úgy fogta a pincért, hogy nehogy elmeneküljön.",
+        "question": "Ki ne meneküljön el?",
+        "answerA": "a séf",
+        "answerB": "a pincér",
+        "correct": "a pincér"
+    },
+    {
+        "sent": "A séf úgy fogta a pincért, hogy közben még tudjon azért főzni.",
+        "question": "Ki tudjon még közben azért főzni?",
+        "answerA": "a séf",
+        "answerB": "a pincér",
+        "correct": "a séf"
+    },
+    {
+        "sent": "Tomi segített Iminek, mert segítőkész volt.",
+        "question": "Ki volt segítőkész?",
+        "answerA": "Tomi",
+        "answerB": "Imi",
+        "correct": "Tomi"
+    },
+    {
+        "sent": "Tomi segített Iminek, mert segítségre szorult.",
+        "question": "Ki szorult segítségre?",
+        "answerA": "Tomi",
+        "answerB": "Imi",
+        "correct": "Imi"
+    },
+    {
+        "sent": "A macska félt a kutyától, mert félelmetes volt.",
+        "question": "Ki volt félelmetes?",
+        "answerA": "a macska",
+        "answerB": "a kutya",
+        "correct": "a kutya"
+    },
+    {
+        "sent": "A macska félt a kutyától, mert gyáva volt.",
+        "question": "Ki volt gyáva?",
+        "answerA": "a macska",
+        "answerB": "a kutya",
+        "correct": "a macska"
+    },
+    {
+        "sent": "A hegedű leesett az asztalról, mert valaki leverte.",
+        "question": "Mit vert le valaki?",
+        "answerA": "a hegedűt",
+        "answerB": "az asztalt",
+        "correct": "a hegedűt"
+    },
+    {
+        "sent": "A hegedű leesett az asztalról, mert instabil volt.",
+        "question": "Mi volt instabil?",
+        "answerA": "a hegedű",
+        "answerB": "az asztal",
+        "correct": "az asztal"
+    },
+    {
+        "sent": "Lili megölelte Imolát, mert szomorú volt.",
+        "question": "Ki volt szomorú?",
+        "answerA": "Lili",
+        "answerB": "Imola",
+        "correct": "Imola"
+    },
+    {
+        "sent": "Lili megölelte Imolát, mert sajnálta.",
+        "question": "Ki sajnálta a másikat?",
+        "answerA": "Lili",
+        "answerB": "Imola",
+        "correct": "Lili"
+    },
+    {
+        "sent": "A madarak felcsipegették a magokat, mert éhesek voltak.",
+        "question": "Mik voltak éhesek?",
+        "answerA": "a madarak",
+        "answerB": "a magok",
+        "correct": "a madarak"
+    },
+    {
+        "sent": "A madarak felcsipegették a magokat, mert ízletesek voltak.",
+        "question": "Mik voltak ízletesek?",
+        "answerA": "a madarak",
+        "answerB": "a magok",
+        "correct": "a magok"
+    },
+    {
+        "sent": "Joli nem szerette Sárát, de nem vette észre.",
+        "question": "Ki nem vette észre?",
+        "answerA": "Joli",
+        "answerB": "Sára",
+        "correct": "Sára"
+    },
+    {
+        "sent": "Joli nem szerette Sárát, de nem mondta el neki.",
+        "question": "Ki nem mondta el a másiknak?",
+        "answerA": "Joli",
+        "answerB": "Sára",
+        "correct": "Joli"
+    },
+    {
+        "sent": "Ádám megpróbált elosonni a főnök mellett, mert késett a munkából.",
+        "question": "Ki késett a munkából?",
+        "answerA": "Ádám",
+        "answerB": "a főnök",
+        "correct": "Ádám"
+    },
+    {
+        "sent": "Ádám megpróbált elosonni a főnök mellett, mert nem szerette a későket.",
+        "question": "Ki nem szerette a későket?",
+        "answerA": "Ádám",
+        "answerB": "a főnök",
+        "correct": "a főnök"
+    },
+    {
+        "sent": "A hiénák megeszik az oroszlánok után maradt cafatokat, mert így könnyen jutnak táplálékhoz.",
+        "question": "Kik jutnak így könnyen táplálékhoz?",
+        "answerA": "a hiénák",
+        "answerB": "az oroszlánok",
+        "correct": "a hiénák"
+    },
+    {
+        "sent": "A hiénák megeszik az oroszlánok után maradt cafatokat, mert elég sokat hagytak hátra.",
+        "question": "Kik hagytak elég sokat hátra?",
+        "answerA": "a hiénák",
+        "answerB": "az oroszlánok",
+        "correct": "az oroszlánok"
+    },
+    {
+        "sent": "A horgász fogott egy nagy halat, de elmenekült.",
+        "question": "Ki menekült el?",
+        "answerA": "A horgász",
+        "answerB": "A hal",
+        "correct": "A hal"
+    },
+    {
+        "sent": "A horgász nagy halat fogott, de elejtette a botját.",
+        "question": "Ki ejtette el a botját?",
+        "answerA": "A horgász",
+        "answerB": "A hal",
+        "correct": "A horgász"
+    },
+    {
+        "sent": "A geológia tanszék pénzt kért az egyetemi tanácstól, mert finanszírozásra volt szükségük.",
+        "question": "Kiknek volt szükségük finanszírozásra?",
+        "answerA": "a geológia tanszék",
+        "answerB": "az egyetemi tanács",
+        "correct": "a geológia tanszék"
+    },
+    {
+        "sent": "A geológia tanszék pénzt kért az egyetemi tanácstól, mert tudtak támogatást adni.",
+        "question": "Kik tudtak támogatást adni?",
+        "answerA": "a geológia tanszék",
+        "answerB": "az egyetemi tanács",
+        "correct": "az egyetemi tanács"
+    },
+    {
+        "sent": "Gergő gólt lőtt Tominak a szétlövésben, így megnyerte a meccset.",
+        "question": "Ki nyerte meg a meccset?",
+        "answerA": "Gergő",
+        "answerB": "Tomi",
+        "correct": "Gergő"
+    },
+    {
+        "sent": "Tominak Gergő gólt lőtt a szétlövésben, így elvesztette a meccset.",
+        "question": "Ki vesztette el a meccset?",
+        "answerA": "Gergő",
+        "answerB": "Tomi",
+        "correct": "Tomi"
+    },
+    {
+        "sent": "Lóri megkérte Lottit, hogy hozzon neki fagylaltot, mert szexi volt.",
+        "question": "Ki volt szexi?",
+        "answerA": "Lóri",
+        "answerB": "Lotti",
+        "correct": "Lotti"
+    },
+    {
+        "sent": "Lóri megkérte Lottit, hogy hozzon neki fagylaltot, mert tartozott neki.",
+        "question": "Ki tartozott a másiknak?",
+        "answerA": "Lóri",
+        "answerB": "Lotti",
+        "correct": "Lóri"
+    },
+    {
+        "sent": "Gábor pénzzel tartozott Ivánnak, mert kifizette a vodkát.",
+        "question": "Ki fizette ki a vodkát?",
+        "answerA": "Gábor",
+        "answerB": "Iván",
+        "correct": "Iván"
+    },
+    {
+        "sent": "Gábor pénzzel tartozott Ivánnak, mert elvesztette a fogadást.",
+        "question": "Ki vesztette el a fogadást?",
+        "answerA": "Gábor",
+        "answerB": "Iván",
+        "correct": "Gábor"
+    },
+    {
+        "sent": "István Gyurit bízta meg, mert keményen dolgozott.",
+        "question": "Ki dolgozott keményen?",
+        "answerA": "István",
+        "answerB": "Gyuri",
+        "correct": "Gyuri"
+    },
+    {
+        "sent": "István Gyurit bízta meg, mert nem talált alkalmasabbat.",
+        "question": "Ki nem talált alkalmasabbat?",
+        "answerA": "István",
+        "answerB": "Gyuri",
+        "correct": "István"
+    },
+    {
+        "sent": "A betyár lelőtte a seriffet, de a helyettest nem lőtte le.",
+        "question": "Ki nem lőtte le a helyettest?",
+        "answerA": "a betyár",
+        "answerB": "a seriff",
+        "correct": "a betyár"
+    },
+    {
+        "sent": "A betyár lelőtte a seriffet, de visszalőtt.",
+        "question": "Ki lőtt vissza?",
+        "answerA": "a betyár",
+        "answerB": "a seriff",
+        "correct": "a seriff"
+    },
+    {
+        "sent": "Kornél tegnap elfelejtette emlékeztetni a bérlőjét, hogy fizetnie kell, de ma már szólt neki. ",
+        "question": "Ki szólt a másiknak ma?",
+        "answerA": "Kornél",
+        "answerB": "a bérlője",
+        "correct": "Kornél"
+    },
+    {
+        "sent": "Kornél tegnap elfelejtette emlékeztetni a bérlőjét, hogy fizetnie kell, de ma már magától hozta a pénzt. ",
+        "question": "Ki hozta magától a pénzt?",
+        "answerA": "Kornél",
+        "answerB": "a bérlője",
+        "correct": "a bérlője"
+    },
+    {
+        "sent": "A tánciskola megemelte a diákoknak a napijegy árát, de nem örültek neki.",
+        "question": "Kik nem örültek neki?",
+        "answerA": "a tánciskola",
+        "answerB": "a diákok",
+        "correct": "a diákok"
+    },
+    {
+        "sent": "A tánciskola megemelte a diákoknak a napijegy árát, de később meggondolták magukat.",
+        "question": "Kik gondolták meg magukat később?",
+        "answerA": "a tánciskola",
+        "answerB": "a diákok",
+        "correct": "a tánciskola"
+    },
+    {
+        "sent": "John azt akarta, hogy George induljon az elnökválasztáson, mert nagyszerű kormányzó volt.",
+        "question": "Ki volt nagyszerű kormányzó?",
+        "answerA": "John",
+        "answerB": "George",
+        "correct": "George"
+    },
+    {
+        "sent": "John azt akarta, hogy George induljon az elnökválasztáson, mert ő nem akart.",
+        "question": "Ki nem akart indulni az elnökválasztáson?",
+        "answerA": "John",
+        "answerB": "George",
+        "correct": "John"
+    },
+    {
+        "sent": "Olívia jóvá akarja tenni a dolgot Emmánál. Aggódik egy kicsit.",
+        "question": "Ki aggódik egy kicsit?",
+        "answerA": "Olívia",
+        "answerB": "Emma",
+        "correct": "Olívia"
+    },
+    {
+        "sent": "Olívia jóvá akarja tenni a dolgot Emmánál. Nem akarja, hogy többé barátok legyenek.",
+        "question": "Ki nem akarja, hogy többé barátok legyenek?",
+        "answerA": "Olívia",
+        "answerB": "Emma",
+        "correct": "Emma"
+    },
+    {
+        "sent": "Enikő látta Elvirát elesni. Felsegítette.",
+        "question": "Ki segítette fel a másikat?",
+        "answerA": "Enikő",
+        "answerB": "Elvira",
+        "correct": "Enikő"
+    },
+    {
+        "sent": "Enikő látta Elvirát elesni. Segítségért kiabált.",
+        "question": "Ki kiabált segítségért?",
+        "answerA": "Enikő",
+        "answerB": "Elvira",
+        "correct": "Elvira"
+    },
+    {
+        "sent": "Donát vásárolt Amálka limonádéjából, így kereshetett egy kis pénzt.",
+        "question": "Ki kereshetett egy kis pénzt?",
+        "answerA": "Donát",
+        "answerB": "Amálka",
+        "correct": "Amálka"
+    },
+    {
+        "sent": "Donát vásárolt Amálka limonádéjából, így már nem volt szomjas.",
+        "question": "Ki nem volt már szomjas?",
+        "answerA": "Donát",
+        "answerB": "Amálka",
+        "correct": "Donát"
+    },
+    {
+        "sent": "Az oktató rossz jegyet adott a hallgatónak, mert nem tanult.",
+        "question": "Ki nem tanult?",
+        "answerA": "az oktató",
+        "answerB": "a hallgató",
+        "correct": "a hallgató"
+    },
+    {
+        "sent": "Az oktató rossz jegyet adott a hallgatónak, mert szigorú volt.",
+        "question": "Ki volt szigorú?",
+        "answerA": "az oktató",
+        "answerB": "a hallgató",
+        "correct": "az oktató"
+    },
+    {
+        "sent": "Bevittük a könyveket az antikváriumokba, mert már régiek voltak.",
+        "question": "Mik voltak régiek?",
+        "answerA": "a könyvek",
+        "answerB": "az antikváriumok",
+        "correct": "a könyvek"
+    },
+    {
+        "sent": "Bevittük a könyveket az antikváriumokba, mert felvásárolták az ilyesmit.",
+        "question": "Mik vásárolták fel az ilyesmit?",
+        "answerA": "a könyvek",
+        "answerB": "az antikváriumok",
+        "correct": "az antikváriumok"
+    },
+    {
+        "sent": "Gyümölcsöket adtunk az embereknek, mert éhesek voltak.",
+        "question": "Kik voltak éhesek?",
+        "answerA": "a gyümölcsök",
+        "answerB": "az emberek",
+        "correct": "az emberek"
+    },
+    {
+        "sent": "Gyümölcsöket adtunk az embereknek, mert ízletesek voltak.",
+        "question": "Mik voltak ízletesek?",
+        "answerA": "a gyümölcsök",
+        "answerB": "az emberek",
+        "correct": "a gyümölcsök"
+    },
+    {
+        "sent": "A Battlefield 3 szórakoztatóbb, mint a Modern Warfare 3, mert jobb játék.",
+        "question": "Mi jobb játék?",
+        "answerA": "a Battlefield 3",
+        "answerB": "a Modern Warfare 3",
+        "correct": "a Battlefield 3"
+    },
+    {
+        "sent": "A Battlefield 3 szórakoztatóbb, mint a Modern Warfare 3, mert egy gagyi játék.",
+        "question": "Mi gagyi játék?",
+        "answerA": "a Battlefield 3",
+        "answerB": "a Modern Warfare 3",
+        "correct": "a Modern Warfare 3"
+    },
+    {
+        "sent": "Jani megtámadta Imrét, mert utálta a kommunistákat.",
+        "question": "Ki utálta a kommunistákat?",
+        "answerA": "Jani",
+        "answerB": "Imre",
+        "correct": "Jani"
+    },
+    {
+        "sent": "Jani megtámadta Imrét, mert kommunista.",
+        "question": "Ki kommunista?",
+        "answerA": "Jani",
+        "answerB": "Imre",
+        "correct": "Imre"
+    },
+    {
+        "sent": "Valaki pofonütötte Tomit, mert dühös volt.",
+        "question": "Ki volt dühös?",
+        "answerA": "valaki",
+        "answerB": "Tomi",
+        "correct": "valaki"
+    },
+    {
+        "sent": "Valaki pofonütötte Tomit, mert szemtelen volt.",
+        "question": "Ki volt szemtelen?",
+        "answerA": "valaki",
+        "answerB": "Tomi",
+        "correct": "Tomi"
+    },
+    {
+        "sent": "Andrásnak több pénze van, mint Jónásnak, mert neki jobb munkája van.",
+        "question": "Kinek van jobb munkája?",
+        "answerA": "Andrásnak",
+        "answerB": "Jónásnak",
+        "correct": "Andrásnak"
+    },
+    {
+        "sent": "Andrásnak több pénze van, mint Jónásnak, mert neki rosszabb munkája van.",
+        "question": "Kinek van rosszabb munkája?",
+        "answerA": "Andrásnak",
+        "answerB": "Jónásnak",
+        "correct": "Jónásnak"
+    },
+    {
+        "sent": "A disznó jobb, mint a juh, mert szalonnát készítenek belőle.",
+        "question": "Miből készítenek szalonnát?",
+        "answerA": "a disznóból",
+        "answerB": "a juhból",
+        "correct": "a disznóból"
+    },
+    {
+        "sent": "A disznó jobb, mint a juh, mert belőle nem készítenek szalonnát.",
+        "question": "Miből nem készítenek szalonnát?",
+        "answerA": "a disznóból",
+        "answerB": "a juhból",
+        "correct": "a juhból"
+    },
+    {
+        "sent": "Az autó nekiütközött a biciklinek, mert túl gyorsan ment.",
+        "question": "Mi ment túl gyorsan?",
+        "answerA": "az autó",
+        "answerB": "a bicikli",
+        "correct": "az autó"
+    },
+    {
+        "sent": "Az autó nekiütközött a biciklinek, mert túl lassan ment.",
+        "question": "Mi ment túl lassan?",
+        "answerA": "az autó",
+        "answerB": "a bicikli",
+        "correct": "a bicikli"
+    },
+    {
+        "sent": "A léghajó azért csapódott a fának, mert levegőt vesztett.",
+        "question": "Mi vesztett levegőt?",
+        "answerA": "A léghajó",
+        "answerB": "A fa",
+        "correct": "A léghajó"
+    },
+    {
+        "sent": "A léghajó azért csapódott a fának, mert útban volt.",
+        "question": "Mi volt útban",
+        "answerA": "A léghajó",
+        "answerB": "A fa",
+        "correct": "A fa "
+    },
+    {
+        "sent": "Robi beperelte Tamást, mert sikkasztott.",
+        "question": "Ki sikkasztott?",
+        "answerA": "Robi",
+        "answerB": "Tamás",
+        "correct": "Tamás"
+    },
+    {
+        "sent": "Robi beperelte Tomit, mert pénzt akart tőle kicsikarni.",
+        "question": "Ki akart pénzt kicsikarni a másiktól?",
+        "answerA": "Robi",
+        "answerB": "Tamás",
+        "correct": "Robi"
+    },
+    {
+        "sent": "Adtam némi vizet a szamárnak, mert szomjas volt.",
+        "question": "Mi volt szomjas?",
+        "answerA": "a víz",
+        "answerB": "a szamár",
+        "correct": "a szamár"
+    },
+    {
+        "sent": "Adtam némi vizet a szamárnak, mert friss volt.",
+        "question": "Mi volt friss?",
+        "answerA": "a víz",
+        "answerB": "a szamár",
+        "correct": "a víz"
+    },
+    {
+        "sent": "A humanoidok féltek a robotoktól, mert gyengék voltak.",
+        "question": "Mik voltak gyengék?",
+        "answerA": "a humanoidok",
+        "answerB": "a robotok",
+        "correct": "a humanoidok"
+    },
+    {
+        "sent": "A humanoidok féltek a robotoktól, mert erősek voltak.",
+        "question": "Mik voltak erősek?",
+        "answerA": "a humanoidok",
+        "answerB": "a robotok",
+        "correct": "a robotok"
+    },
+    {
+        "sent": "A Playstation jobban teljesít, mint az Xbox, mert jobb játékai vannak.",
+        "question": "Minek vannak jobb játékai?",
+        "answerA": "a Playstation-nek",
+        "answerB": "az Xbox-nak",
+        "correct": "a Playstation-nek"
+    },
+    {
+        "sent": "A Playstation jobban teljesít, mint az Xbox, mert hajlamos a hardverhibákra.",
+        "question": "Mi hajlamos a hardverhibákra?",
+        "answerA": "a Playstation",
+        "answerB": "az Xbox",
+        "correct": "az Xbox"
+    },
+    {
+        "sent": "A humán annotátor ügyesebb anaforafeloldásban, mint Watson, mert érti a természetes nyelvet.",
+        "question": "Ki érti a természetes nyelvet?",
+        "answerA": "a humán annotátor",
+        "answerB": "Watson",
+        "correct": "a humán annotátor"
+    },
+    {
+        "sent": "A humán annotátor ügyesebb anaforafeloldásban, mint Watson, mert nem annyira érti a természetes nyelvet.",
+        "question": "Ki nem érti annyira a természetes nyelvet?",
+        "answerA": "a humán annotátor",
+        "answerB": "Watson",
+        "correct": "Watson"
+    },
+    {
+        "sent": "A humanoidok minden embert megölnek, mert óriási halálsugaraik vannak.",
+        "question": "Kiknek vannak óriási halálsugaraik?",
+        "answerA": "a humanoidoknak",
+        "answerB": "az embereknek",
+        "correct": "a humanoidoknak"
+    },
+    {
+        "sent": "A humanoidok minden embert megölnek, mert alsóbbrendű lények.",
+        "question": "Kik alsóbbrendű lényeg?",
+        "answerA": "a humanoidok",
+        "answerB": "az emberek",
+        "correct": "az emberek"
+    },
+    {
+        "sent": "Watson legyőzte a humán versenyzőt a Jeopardyban, mert kiváló gép.",
+        "question": "Ki kiváló gép?",
+        "answerA": "Watson",
+        "answerB": "a humán versenyző",
+        "correct": "Watson"
+    },
+    {
+        "sent": "Watson megverte a humán versenyzőt a Jeopardyban, mert alsóbbrendű ember.",
+        "question": "Ki alsóbbrendű ember?",
+        "answerA": "Watson",
+        "answerB": "a humán versenyző",
+        "correct": "a humán versenyző"
+    },
+    {
+        "sent": "Lóri megbízott Piroskában, mert Erzsi megkérte rá.",
+        "question": "Kit kért meg Erzsi?",
+        "answerA": "Lórit",
+        "answerB": "Piroskát",
+        "correct": "Lórit"
+    },
+    {
+        "sent": "Lóri megbízott Piroskában, mert Erzsi nagyon régóta ismerte.",
+        "question": "Kit ismert Erzsi nagyon régóta?",
+        "answerA": "Lórit",
+        "answerB": "Piroskát",
+        "correct": "Piroskát"
+    },
+    {
+        "sent": "Lóri támogatta Piroskát, mert Erzsi nagyon szerette.",
+        "question": "Kit szeretett nagyon Erzsi?",
+        "answerA": "Lórit",
+        "answerB": "Piroskát",
+        "correct": "Piroskát"
+    },
+    {
+        "sent": "Lóri támogatta Piroskát, mert Erzsi erre biztatta.",
+        "question": "Kit biztatott Erzsi?",
+        "answerA": "Lórit",
+        "answerB": "Piroskát",
+        "correct": "Lórit"
+    },
+    {
+        "sent": "Jani szerette Jézust, mert meghalt érte.",
+        "question": "Ki halt meg a másikért?",
+        "answerA": "Jani",
+        "answerB": "Jézus",
+        "correct": "Jézus"
+    },
+    {
+        "sent": "Jami szerette Jézust, mert érezte a szeretetét.",
+        "question": "Ki érezte a másik szeretetét?",
+        "answerA": "Jani",
+        "answerB": "Jézus",
+        "correct": "Jani"
+    },
+    {
+        "sent": "Olga belerúgott Sárába, mert felébresztette.",
+        "question": "Ki ébresztette fel a másikat?",
+        "answerA": "Olga",
+        "answerB": "Sára",
+        "correct": "Sára"
+    },
+    {
+        "sent": "Olga belerúgott Sárába, mert részeg volt.",
+        "question": "Ki volt részeg?",
+        "answerA": "Olga",
+        "answerB": "Sára",
+        "correct": "Olga"
+    },
+    {
+        "sent": "Nóra fejbe lőtte Krisztát, mert azzal fenyegetőzött, hogy elveszi az összes pénzét.",
+        "question": "Ki fenyegetőzött?",
+        "answerA": "Nóra",
+        "answerB": "Kriszta",
+        "correct": "Kriszta"
+    },
+    {
+        "sent": "Nóra fejbe lőtte Krisztát, mert szerinte jó ötlet embert ölni.",
+        "question": "Ki szerint jó ötlet embert ölni?",
+        "answerA": "Nóra",
+        "answerB": "Kriszta",
+        "correct": "Nóra"
+    },
+    {
+        "sent": "Rebeka megpuszilta Ilit, mert nagyon szereti.",
+        "question": "Ki szereti nagyon a másikat?",
+        "answerA": "Rebeka",
+        "answerB": "Ili",
+        "correct": "Rebeka"
+    },
+    {
+        "sent": "Rebeka megpuszilta Ilit, mert hozott egy nagy doboz sütit.",
+        "question": "Ki hozott egy nagy döböz sütit?",
+        "answerA": "Rebeka",
+        "answerB": "Ili",
+        "correct": "Ili"
+    },
+    {
+        "sent": "Anya korábban elhozta Sárit a suliból, mert rosszul lett.",
+        "question": "Ki lett rosszul?",
+        "answerA": "anya",
+        "answerB": "Sári",
+        "correct": "Sári"
+    },
+    {
+        "sent": "Anya korábban elhozta Sárit a suliból, mert korábban végzett a munkában.",
+        "question": "Ki végzett korábban a munkában?",
+        "answerA": "anya",
+        "answerB": "Sári",
+        "correct": "anya"
+    },
+    {
+        "sent": "Gordon morcos volt a bátyjával, mert elfelejtett neki csokit hozni.",
+        "question": "Ki felejtett el csokit hozni a másiknak?",
+        "answerA": "Gordon",
+        "answerB": "a bátyja",
+        "correct": "a bátyja"
+    },
+    {
+        "sent": "Gordon morcos volt a bátyjával, mert nem aludta ki magát.",
+        "question": "Ki nem aludta ki magát?",
+        "answerA": "Gordon",
+        "answerB": "a bátyja",
+        "correct": "Gordon"
+    },
+    {
+        "sent": "Joli megkérdezte Gézát, mert ő bizonytalan volt.",
+        "question": "Ki volt bizonytalan?",
+        "answerA": "Joli",
+        "answerB": "Géza",
+        "correct": "Joli"
+    },
+    {
+        "sent": "Joli megkérdezte Gézát, mert ő tudta a választ.",
+        "question": "Ki tudta a választ?",
+        "answerA": "Joli",
+        "answerB": "Géza",
+        "correct": "Géza"
+    },
+    {
+        "sent": "Joli pontozta Gézát, mert ő volt a zsűritag.",
+        "question": "Ki volt a zsűritag?",
+        "answerA": "Joli",
+        "answerB": "Géza",
+        "correct": "Joli"
+    },
+    {
+        "sent": "Joli pontozta Gézát, mert ő volt a versenyző.",
+        "question": "Ki volt a versenyző?",
+        "answerA": "Joli",
+        "answerB": "Géza",
+        "correct": "Géza"
+    },
+    {
+        "sent": "Joli felhívta Gézát, mert beszélni szeretett volna valakivel.",
+        "question": "Ki szeretett volna beszélni valakivel?",
+        "answerA": "Joli",
+        "answerB": "Géza",
+        "correct": "Joli"
+    },
+    {
+        "sent": "Joli felhívta Gézát, mert mindig meghallgatta a problémáit.",
+        "question": "Ki hallgatta meg mindig a problémáit?",
+        "answerA": "Joli",
+        "answerB": "Géza",
+        "correct": "Géza"
+    },
+    {
+        "sent": "Joli kivégezte Gézát, mert meg akarta védeni magát.",
+        "question": "Ki akarta megvédeni a magát?",
+        "answerA": "Joli",
+        "answerB": "Géza",
+        "correct": "Joli"
+    },
+    {
+        "sent": "Joli kivégezte Gézát, mert egy zombi volt.",
+        "question": "Ki volt egy zombi?",
+        "answerA": "Joli",
+        "answerB": "Géza",
+        "correct": "Géza"
+    },
+    {
+        "sent": "Andris legyőzte Noémit Scrabble-ben, mert a kis újoncnak semmi tehetsége nem volt a játékhoz.",
+        "question": "Kinek nem volt semmi tehetsége a játékhoz?",
+        "answerA": "Andrisnak",
+        "answerB": "Noéminek",
+        "correct": "Noéminek"
+    },
+    {
+        "sent": "Andris legyőzte Noémit Scrabble-ben, mert a kis újoncnak mindig szerencséje volt a betűkkel.",
+        "question": "Kinek volt mindig szerencséje a betűkkel?",
+        "answerA": "Andrisnak",
+        "answerB": "Noéminek",
+        "correct": "Andrisnak"
+    },
+    {
+        "sent": "Marinak volt egy báránykája, amíg meg nem ette.",
+        "question": "Ki ette meg?",
+        "answerA": "Mari",
+        "answerB": "a bárányka",
+        "correct": "Mari"
+    },
+    {
+        "sent": "Marinak volt egy báránykája, amíg meg nem ették.",
+        "question": "Kit ettek meg?",
+        "answerA": "Marit",
+        "answerB": "a báránykát",
+        "correct": "a báránykát"
+    },
+    {
+        "sent": "A farkasok vadásznak a szarvasokra, mert ragadozók.",
+        "question": "Mik ragadozók?",
+        "answerA": "a farkasok",
+        "answerB": "a szarvasok",
+        "correct": "a farkasok"
+    },
+    {
+        "sent": "A farkasok vadásznak a szarvasokra, mert zsákmányállatok.",
+        "question": "Mik zsákmányállatok?",
+        "answerA": "a farkasok",
+        "answerB": "a szarvasok",
+        "correct": "a szarvasok"
+    },
+    {
+        "sent": "A lányok megették az összes almát, mert éhesek voltak.",
+        "question": "Kik voltak éhesek?",
+        "answerA": "a lányok",
+        "answerB": "az almák",
+        "correct": "a lányok"
+    },
+    {
+        "sent": "A lányok megették az összes almát, mert ízletesek voltak.",
+        "question": "Mik voltak ízletesek?",
+        "answerA": "a lányok",
+        "answerB": "az almák",
+        "correct": "az almák"
+    },
+    {
+        "sent": "A miniszter barátkozott György királlyal, ezért nem fejezték le.",
+        "question": "Kit nem fejeztek le?",
+        "answerA": "a minisztert",
+        "answerB": "György királyt",
+        "correct": "a minisztert"
+    },
+    {
+        "sent": "A miniszter barátkozott György királlyal, így van már barátja a királyi palotán kívül is.",
+        "question": "Kinek van már barátja a királyi palotán kívül is?",
+        "answerA": "a miniszternek",
+        "answerB": "György királynak",
+        "correct": "György királynak"
+    },
+    {
+        "sent": "Erzsébet szerette Elit, mert menő neve volt.",
+        "question": "Kinek volt menő neve?",
+        "answerA": "Erzsébetnek",
+        "answerB": "Elinek",
+        "correct": "Elinek"
+    },
+    {
+        "sent": "Erzsébet szerette Elit, mert szerette a menő lányokat.",
+        "question": "Ki szerette a menő lányokat?",
+        "answerA": "Erzsébet",
+        "answerB": "Eli",
+        "correct": "Erzsébet"
+    },
+    {
+        "sent": "A denevérbe belecsapódott a labda, mert belerepült a röppályájába.",
+        "question": "Mi repült?",
+        "answerA": "a denevér",
+        "answerB": "a labda",
+        "correct": "a denevér"
+    },
+    {
+        "sent": "A denevérbe belecsapódott a labda, mert pont a szegény állat felé repült.",
+        "question": "Mi repült?",
+        "answerA": "a denevér",
+        "answerB": "a labda",
+        "correct": "a labda"
+    },
+    {
+        "sent": "A kés könnyedén átvágta a húst, mert éles volt.",
+        "question": "Mi volt éles?",
+        "answerA": "a kés",
+        "answerB": "a hús",
+        "correct": "a kés"
+    },
+    {
+        "sent": "A kés könnyedén átvágta a húst, mert puha volt.",
+        "question": "Mi volt puha?",
+        "answerA": "a kés",
+        "answerB": "a hús",
+        "correct": "a hús"
+    },
+    {
+        "sent": "A fiú hazudott apjának a bűncselekményről, de sokat nyugtalankodott és lassan eluralkodott rajta a bűntudat.",
+        "question": "Kin uralkodott el a bűntudat?",
+        "answerA": "a fiún",
+        "answerB": "az apján",
+        "correct": "a fiún"
+    },
+    {
+        "sent": "A fiú hazudott apjának a bűncselekményről, de sokat nyugtalankodott és lassan eluralkodott rajta a kíváncsiság.",
+        "question": "Kin uralkodott el a kíváncsiság?",
+        "answerA": "a fiún",
+        "answerB": "az apján",
+        "correct": "az apján"
+    },
+    {
+        "sent": "Az almabor belefolyt a számba, mert isteni íze volt.",
+        "question": "Minek volt isteni íze?",
+        "answerA": "az almabornak",
+        "answerB": "a számnak",
+        "correct": "az almabornak"
+    },
+    {
+        "sent": "Az almabor belefolyt a számba, mert volt még benne hely.",
+        "question": "Miben volt még hely?",
+        "answerA": "az almaborban",
+        "answerB": "a számban",
+        "correct": "a számban"
+    },
+    {
+        "sent": "A fiú segített a barátjának a költözésben, mert egész nap ráért.",
+        "question": "Ki ért rá egész nap?",
+        "answerA": "a fiú",
+        "answerB": "a barátja",
+        "correct": "a fiú"
+    },
+    {
+        "sent": "A fiú segített a barátjának a költözésben, mert sok más dolga is volt aznap.",
+        "question": "Kinek volt sok más dolga is aznap?",
+        "answerA": "a fiúnak",
+        "answerB": "a barátjának",
+        "correct": "a barátjának"
+    },
+    {
+        "sent": "A fiú titokban megfigyelte a barátját, mert titkos információkra volt szüksége.",
+        "question": "Kinek volt szüksége titkos információkra?",
+        "answerA": "a fiúnak",
+        "answerB": "a barátjának",
+        "correct": "a fiúnak"
+    },
+    {
+        "sent": "A fiú titokban megfigyelte a barátját, mert valószínűleg titkos információk voltak a birtokában.",
+        "question": "Ki volt valószínűleg titkos információk birtokában?",
+        "answerA": "a fiú",
+        "answerB": "a barátja",
+        "correct": "a barátja"
+    },
+    {
+        "sent": "A bogár odarepült a gyertyalánghoz, de azonnal el is égett.",
+        "question": "Mi égett el azonnal?",
+        "answerA": "a bogár",
+        "answerB": "a gyertyaláng",
+        "correct": "a bogár"
+    },
+    {
+        "sent": "A bogár odarepült a gyertyalánghoz, de azonnal el is aludt.",
+        "question": "Mi aludt el azonnal?",
+        "answerA": "a bogár",
+        "answerB": "a gyertyaláng",
+        "correct": "a gyertyaláng"
+    },
+    {
+        "sent": "A férfi cukorkát ígért a kisfiúnak, de nem volt nála.",
+        "question": "Kinél nem volt cukorka?",
+        "answerA": "a férfinál",
+        "answerB": "a kisfiúnál",
+        "correct": "a férfinál"
+    },
+    {
+        "sent": "A férfi cukorkát ígért a kisfiúnak, de végül nem kapott.",
+        "question": "Ki nem kapott végül?",
+        "answerA": "a férfi",
+        "answerB": "a kisfiú",
+        "correct": "a kisfiú"
+    },
+    {
+        "sent": "Pali ráüvöltött Medire, mert mérges volt.",
+        "question": "Ki volt mérges?",
+        "answerA": "Pali",
+        "answerB": "Medi",
+        "correct": "Pali"
+    },
+    {
+        "sent": "Pali ráüvöltött Medire, mert nem foglalkozott vele.",
+        "question": "Ki nem foglalkozott a másikkal?",
+        "answerA": "Pali",
+        "answerB": "Medi",
+        "correct": "Medi"
+    },
+    {
+        "sent": "A boci bőgött a gazdának, mert tejet akart.",
+        "question": "Ki akart tejet?",
+        "answerA": "a boci",
+        "answerB": "a gazda",
+        "correct": "a boci"
+    },
+    {
+        "sent": "A boci bőgött a gazdának, mert tej volt nála.",
+        "question": "Kinél volt tej?",
+        "answerA": "a bocinál",
+        "answerB": "a gazdánál",
+        "correct": "a gazdánál"
+    },
+    {
+        "sent": "A tanárom megkérte az egyik osztálytársamat, hogy írjon mondatokat, mert elkésett.",
+        "question": "Ki késett el?",
+        "answerA": "a tanárom",
+        "answerB": "az egyik osztálytársam",
+        "correct": "az egyik osztálytársam"
+    },
+    {
+        "sent": "A tanárom megkérte az egyik osztálytársamat, hogy írjon mondatokat, mert látni akarta, hogy hogy megy.",
+        "question": "Ki akarta látni, hogy hogy megy?",
+        "answerA": "a tanárom",
+        "answerB": "az egyik osztálytársam",
+        "correct": "az egyik osztálytársam"
+    },
+    {
+        "sent": "A tesitanárok csukóztatták a gyerekeket, hogy fegyelemre tanítsák őket.",
+        "question": "Kik tanítsák a másikakat fegyelemre?",
+        "answerA": "a tesitanárok",
+        "answerB": "a gyerekek",
+        "correct": "a tesitanárok"
+    },
+    {
+        "sent": "A tesitanárok csukóztatták a gyerekeket, hogy jobb sportolók legyenek belőlük.",
+        "question": "Kik legyenek jobb sportolók?",
+        "answerA": "a tesitanárok",
+        "answerB": "a gyerekek",
+        "correct": "a gyerekek"
+    },
+    {
+        "sent": "A Skyline jobban driftel, mint az F-150, mert jól kiegyensúlyozott.",
+        "question": "Mi jól kiegyensúlyozott?",
+        "answerA": "a Skyline",
+        "answerB": "az F-150",
+        "correct": "a Skyline"
+    },
+    {
+        "sent": "A Skyline jobban driftel, mint az F-150, mert nem driftelésre való.",
+        "question": "Mi nem driftelésre való?",
+        "answerA": "a Skyline",
+        "answerB": "az F-150",
+        "correct": "az F-150"
+    },
+    {
+        "sent": "A városi tanács engedélyt adott az építtetőknek, mert jól képzettek voltak.",
+        "question": "Kik voltak jól képzettek?",
+        "answerA": "a városi tanács",
+        "answerB": "az építtetők",
+        "correct": "az építtetők"
+    },
+    {
+        "sent": "A városi tanács engedélyt adott az építtetőknek, mert az ő feladatuk volt a város üzleti ügyeinek rendezése.",
+        "question": "Kiknek a feladata volt a város üzleti ügyeinek rendezése?",
+        "answerA": "a városi tanácsnak",
+        "answerB": "az építtetőknek",
+        "correct": "a városi tanácsnak"
+    },
+    {
+        "sent": "Rick Perry jobban teljesít a választásokon, mint Mitt Romney, de még behozhatja a hátrányát.",
+        "question": "Ki hozhatja még be a hátrányát?",
+        "answerA": "Rick Perry",
+        "answerB": "Mitt Romney",
+        "correct": "Mitt Romney"
+    },
+    {
+        "sent": "Rick Perry jobban teljesít a választásokon, mint Mitt Romney, de bízik abban, hogy megőrzi a vezetést.",
+        "question": "Ki bízik abban, hogy megőrzi a vezetést?",
+        "answerA": "Rick Perry",
+        "answerB": "Mitt Romney",
+        "correct": "Rick Perry"
+    },
+    {
+        "sent": "A Detroit Lions azért verte meg a Dallas Cowboyst, mert jobban vágytak a győzelemre.",
+        "question": "Kik vágytak jobban a győzelemre?",
+        "answerA": "a Detroit Lions",
+        "answerB": "a Dallas Cowboys",
+        "correct": "a Detroit Lions"
+    },
+    {
+        "sent": "A Detroit Lions azért verte meg a Dallas Cowboyst, mert nem voltak felkészülve.",
+        "question": "Kik nem voltak felkészülve?",
+        "answerA": "a Detroit Lions",
+        "answerB": "a Dallas Cowboys",
+        "correct": "a Dallas Cowboys"
+    },
+    {
+        "sent": "James Cameron sikeresebb, mint Michael Bay, mert a filmjeit világszerte többet adják el.",
+        "question": "Kinek a filmjeit adják el többet?",
+        "answerA": "James Cameron",
+        "answerB": "Michael Bay",
+        "correct": "James Cameron"
+    },
+    {
+        "sent": "James Cameron sikeresebb, mint Michael Bay, mert a filmjei körül nincs akkora felhajtás.",
+        "question": "Kinek a filmjei körül nincs akkora felhajtás?",
+        "answerA": "James Cameron",
+        "answerB": "Michael Bay",
+        "correct": "Michael Bay"
+    },
+    {
+        "sent": "Audrey Hepburn több filmben szerepelt, mint Katherine Hepburn, mert nagyon csinos és tehetséges volt.",
+        "question": "Ki volt nagyon csinos és tehetséges?",
+        "answerA": "Audrey Hepburn",
+        "answerB": "Katherine Hepburn",
+        "correct": "Audrey Hepburn"
+    },
+    {
+        "sent": "Audrey Hepburn több filmben szerepelt, mint Katherine Hepburn, mert nem volt olyan tehetséges színésznő.",
+        "question": "Ki volt nem olyan tehetséges színésznő?",
+        "answerA": "Audrey Hepburn",
+        "answerB": "Katherine Hepburn",
+        "correct": "Katherine Hepburn"
+    },
+    {
+        "sent": "A Penguins két perc alatt két gólt szerzett a Flyers ellen, mert nem koncentráltak.",
+        "question": "Kik nem koncentráltak?",
+        "answerA": "a Penguins",
+        "answerB": "a Flyers",
+        "correct": "a Flyers"
+    },
+    {
+        "sent": "A Penguins két perc alatt két gólt szerzett a Flyers ellen, mert ügyesebbek voltak.",
+        "question": "Kik voltak ügyesebbek?",
+        "answerA": "a Penguins",
+        "answerB": "a Flyers",
+        "correct": "a Penguins"
+    },
+    {
+        "sent": "Taylor Swift több lemezt adott el, mint Beyoncé, mert több ember tud azonosulni a zenéjével.",
+        "question": "Kinek a zenéjével tud több ember azonosulni?",
+        "answerA": "Taylor Swiftével",
+        "answerB": "Beyoncé-ével",
+        "correct": "Taylor Swiftével"
+    },
+    {
+        "sent": "Taylor Swift több lemezt adott el, mint Beyoncé, mert sok ember nem igazán rajong a zenéjéért.",
+        "question": "Kinek a zenéjéért nem rajong igazán sok ember? ",
+        "answerA": "Taylor Swiftével",
+        "answerB": "Beyoncé-ével",
+        "correct": "Beyoncé-ével"
+    },
+    {
+        "sent": "A Fox News népszerűbb a CNN-nél, mert az érdekesebb.",
+        "question": "Mi érdekesebb?",
+        "answerA": "a Fox News",
+        "answerB": "a CNN",
+        "correct": "a Fox News"
+    },
+    {
+        "sent": "A Fox News népszerűbb a CNN-nél, mert az unalmasabb.",
+        "question": "Mi unalmasabb?",
+        "answerA": "a Fox News",
+        "answerB": "a CNN",
+        "correct": "a CNN"
+    },
+    {
+        "sent": "Az Autobotok megpróbálják megállítani a Decepticonokat, mivel azt akarják, hogy a világ békében éljen.",
+        "question": "Kik akarják, hogy a világ békében éljen?",
+        "answerA": "az Autobotok",
+        "answerB": "a Decepticonok",
+        "correct": "az Autobotok"
+    },
+    {
+        "sent": "Az Autobotok megpróbálják megállítani a Decepticonokat, mivel el akarják pusztítani a világot.",
+        "question": "Kik akarják elpusztítani a világot?",
+        "answerA": "az Autobotok",
+        "answerB": "a Decepticonok",
+        "correct": "a Decepticonok"
+    },
+    {
+        "sent": "A kaliforniaiak jobbak, mint a New York-iak, mert nekik ott van Hollywood.",
+        "question": "Kiknek van ott Hollywood?",
+        "answerA": "a kaliforniaiaknak",
+        "answerB": "a New York-iaknak",
+        "correct": "a kaliforniaiaknak"
+    },
+    {
+        "sent": "A kaliforniaiak jobbak, mint a New York-iak, mert nekik nincs ott Hollywood.",
+        "question": "Kiknek nincs ott Hollywood?",
+        "answerA": "a kaliforniaiaknak",
+        "answerB": "a New York-iaknak",
+        "correct": "a New York-iaknak"
+    },
+    {
+        "sent": "A mongolok megtámadták a kínaiakat, mert mindig keresik a háborút.",
+        "question": "Kik keresik mindig a háborút?",
+        "answerA": "a mongolok",
+        "answerB": "a kínaiak",
+        "correct": "a mongolok"
+    },
+    {
+        "sent": "A mongolok azért támadták a kínaiakat, mert pacifisták.",
+        "question": "Kik pacifisták?",
+        "answerA": "a mongolok",
+        "answerB": "a kínaiak",
+        "correct": "a kínaiak"
+    },
+    {
+        "sent": "A Jupiter nagyobb a Földnél, de gázbolygóként kisebb a tömege.",
+        "question": "Melyiknek kisebb a tömege?",
+        "answerA": "a Jupiternek",
+        "answerB": "a Földnek",
+        "correct": "a Jupiternek"
+    },
+    {
+        "sent": "A Jupiter nagyobb a Földnél, de kőzetbolygóként nagyobb a tömege.",
+        "question": "Melyiknek nagyobb a tömege?",
+        "answerA": "a Jupiternek",
+        "answerB": "a Földnek",
+        "correct": "a Földnek"
+    },
+    {
+        "sent": "A tégla jobb építőanyag az agyagnál, mert sokkal nagyobb tömeget elbír.",
+        "question": "Mi bír el sokkal nagyobb tömeget?",
+        "answerA": "a tégla",
+        "answerB": "az agyag",
+        "correct": "a tégla"
+    },
+    {
+        "sent": "A tégla jobb építőanyag az agyagnál, mert a víztől könnyen átázik és megpuhul.",
+        "question": "Mi ázik át könnyen a víztől?",
+        "answerA": "a tégla",
+        "answerB": "az agyag",
+        "correct": "az agyag"
+    },
+    {
+        "sent": "A Dallas Cowboys franchise-ként sikeresebb, mint a Saints, mert „Amerika csapatának” tartják őket.",
+        "question": "Kiket tartanak „Amerika csapatának”?",
+        "answerA": "a Dallas Cowboys-t",
+        "answerB": "a Saints-et",
+        "correct": "a Dallas Cowboys-t"
+    },
+    {
+        "sent": "A Dallas Cowboys franchise-ként sikeresebb, mint a Saints, mert nem rendelkeznek ugyanakkora piaci értékkel.",
+        "question": "Kik nem rendelkeznek ugyanakkora piaci értékkel?",
+        "answerA": "a Dallas Cowboys",
+        "answerB": "a Saints",
+        "correct": "a Saints"
+    },
+    {
+        "sent": "Az Egyesült Államok kormánya hadat üzent Iraknak, mert az Egyesült Államok földje elleni támadásukra reagálnak.",
+        "question": "Kik reagálnak az Egyesül Államok földje elleni támadásra?",
+        "answerA": "az Egyesül Államok kormánya",
+        "answerB": "Irak",
+        "correct": "az Egyesül Államok kormánya"
+    },
+    {
+        "sent": "Az Egyesült Államok kormánya hadat üzent Iraknak, mert megtámadták az Egyesült Államok területét.",
+        "question": "Kik támadták meg az Egyesül Államok területét?",
+        "answerA": "az Egyesül Államok kormánya",
+        "answerB": "Irak",
+        "correct": "Irak"
+    },
+    {
+        "sent": "Az önkormányzat elutasította a Vadász család új épület iránti kérelmét, mivel nem fizették be az éves adót.",
+        "question": "Kik nem fizették be az éves adót?",
+        "answerA": "az önkörmányzat",
+        "answerB": "a Vadász család",
+        "correct": "a Vadász család"
+    },
+    {
+        "sent": "Az önkormányzat elutasította a Vadász család új épület iránti kérelmét, mivel úgy gondolták, hogy nem illene bele a településképbe.",
+        "question": "Kik gondolták úgy, hogy nem illene bele a településképbe?",
+        "answerA": "az önkörmányzat",
+        "answerB": "a Vadász család",
+        "correct": "az önkörmányzat"
+    },
+    {
+        "sent": "A gyapjú finomabb érzés a bőrnek a pamutnál, mert sokkal puhább.",
+        "question": "Mi sokkal puhább?",
+        "answerA": "a gyapjú",
+        "answerB": "a pamut",
+        "correct": "a gyapjú"
+    },
+    {
+        "sent": "A gyapjú finomabb érzés a bőrnek a pamutnál, mert nem túl jó minőségű anyag.",
+        "question": "Mi nem túl jó minőségű anyag?",
+        "answerA": "a gyapjú",
+        "answerB": "a pamut",
+        "correct": "a pamut"
+    },
+    {
+        "sent": "A rendőrség nem akarta, hogy a tüntetők szervezkedjenek, ezért megtagadták tőlük az engedélyt a gyülekezésre.",
+        "question": "Kik tagadták meg az engedélyt a gyülekezésre?",
+        "answerA": "a rendőrség",
+        "answerB": "a tüntetők",
+        "correct": "a rendőrség"
+    },
+    {
+        "sent": "A rendőrség nem akarta, hogy a tüntetők szervezkedjenek, ezért illegálisan szervezték a tüntetést.",
+        "question": "Kik szervezték illegálisan a tüntetést?",
+        "answerA": "a rendőrség",
+        "answerB": "a tüntetők",
+        "correct": "a tüntetők"
+    },
+    {
+        "sent": "A kormány visszavonta az olajtársaságok fúrási engedélyeit az Egyesült Államokban, mivel a környezet védelmére törekednek.",
+        "question": "Kik törekedtek a környezet védelmére?",
+        "answerA": "a kormány",
+        "answerB": "az olajtársaságok",
+        "correct": "a kormány"
+    },
+    {
+        "sent": "A kormány visszavonta az olajtársaságok fúrási engedélyeit az Egyesült Államokban, mivel egyre több olajtartalékot próbálnak kifúrni.",
+        "question": "Kik próbáltak egyre több olajtartalékot kifúrni?",
+        "answerA": "a kormány",
+        "answerB": "az olajtársaságok",
+        "correct": "az olajtársaságok"
+    },
+    {
+        "sent": "A katonai rendőrség a katonai újoncokat a fogdába vetette, mivel bajt okoztak a szomszédos városban.",
+        "question": "Kik okoztak bajt a szomszédos városban?",
+        "answerA": "A katonai rendőrség",
+        "answerB": "A katonai újoncok",
+        "correct": "A katonai újoncok"
+    },
+    {
+        "sent": "A katonai rendőrség a hadsereg újoncait a fogdába dobta, mivel a hadseregben való tartózkodás szabályait érvényesítették.",
+        "question": "Kik érvényesítették a hadseregben való tartózkodás szabályait?",
+        "answerA": "A katonai rendőrség",
+        "answerB": "A katonai újoncok",
+        "correct": "A katonai rendőrség"
+    },
+    {
+        "sent": "Harvey Dent a Batmant hibáztatja szerelme elvesztéséért, mert nem mentette meg.",
+        "question": "Ki nem mentette meg a barátnőjét?",
+        "answerA": "Harvey Dent",
+        "answerB": "A Batman",
+        "correct": "A Batman"
+    },
+    {
+        "sent": "Harvey Dent a Batmant hibáztatja szerelme elvesztéséért, mert őt mentette meg a barátnője helyett.",
+        "question": "Kit mentettek meg a barátnő helyett?",
+        "answerA": "Harvey Dentet",
+        "answerB": "A Batmant",
+        "correct": "Harvey Dentet"
+    },
+    {
+        "sent": "Az Intel jobban teljesít a processzorok piacán, mint az AMD, viszont az nem teljesít olyan jól a grafikus kártyák piacán.",
+        "question": "Ki nem teljesít olyan jól a grafikus kártyák piacán?",
+        "answerA": "az Intel",
+        "answerB": "az AMD",
+        "correct": "az Intel"
+    },
+    {
+        "sent": "Az Intel jobban teljesít a processzorok piacán, mint az AMD, viszont az a grafikus kártyákban jobb.",
+        "question": "Ki jobb a grafikus kártyákban?",
+        "answerA": "az Intel",
+        "answerB": "az AMD",
+        "correct": "az AMD"
+    },
+    {
+        "sent": "A futballisták sztrájkot kezdeményeztek az NFL szervezete ellen, de ha követeléseiket teljesítik, újra játszanak.",
+        "question": "Kik játszanak újra, ha a követeléseiket teljesítik?",
+        "answerA": "a futballisták",
+        "answerB": "az NFL",
+        "correct": "a futballisták"
+    },
+    {
+        "sent": "A futballisták sztrájkot kezdeményeztek az NFL szervezete ellen, de megfontolják követeléseket a sztrájk elküldésére.",
+        "question": "Kik fontolják meg a követeléseket a sztrájk elkerülésére?",
+        "answerA": "a futballisták",
+        "answerB": "az NFL",
+        "correct": "az NFL"
+    },
+    {
+        "sent": "A Disney World sokkal több szórakoztató programot kínál egy sima vidámparknál, mivel sokkal nagyobb költségvetéssel rendelkeznek.",
+        "question": "Kik rendelkeznek sokkal nagyobb költségvetéssel?",
+        "answerA": "a Disney World",
+        "answerB": "egy sima vidámpark",
+        "correct": "a Disney World"
+    },
+    {
+        "sent": "A Disney World sokkal több szórakoztató programot kínál egy sima vidámparknál, mivel sokkal korlátozottabb költségvetéssel rendelkeznek.",
+        "question": "Kik rendelkeznek sokkal korlátozottabb költségvetéssel?",
+        "answerA": "a Disney World",
+        "answerB": "egy sima vidámpark",
+        "correct": "egy sima vidámpark"
+    },
+    {
+        "sent": "Dél-Korea nem szereti Észak-Koreát, mert folyamatosan fenyegeti a békéjüket.",
+        "question": "Ki fenyegeti a másik békéjét folyamatosan?",
+        "answerA": "Dél-Korea",
+        "answerB": "Észak-Korea",
+        "correct": "Észak-Korea"
+    },
+    {
+        "sent": "Dél-Korea nem szereti Észak-Koreát, mert mindig kénytelenek megvédeni a békéjüket.",
+        "question": "Ki kénytelen megvédeni a békéjét?",
+        "answerA": "Dél-Korea",
+        "answerB": "Észak-Korea",
+        "correct": "Dél-Korea"
+    },
+    {
+        "sent": "Az ügyészek agresszívan támadták a vádlottakat, mivel azt akarták, hogy elítéljék őket a bűncselekmény miatt.",
+        "question": "Kik akarták, hogy elítéljék a másikakat a bűncselekmény miatt?",
+        "answerA": "az ügyészek",
+        "answerB": "a vádlottak",
+        "correct": "az ügyészek"
+    },
+    {
+        "sent": "Az ügyészek agresszívan támadták a vádlottakat, mivel egy súlyos bűncselekménnyel vádolták őket.",
+        "question": "Kiket vádoltak egy súlyos bűncselekménnyel?",
+        "answerA": "az ügyészeket",
+        "answerB": "a vádlottakat",
+        "correct": "a vádlottakat"
+    },
+    {
+        "sent": "Az uralkodó osztály rosszul bánik a polgárokkal, mert felsőbbrendűek.",
+        "question": "Kik felsőbbrendűek?",
+        "answerA": "az uralkodó osztály",
+        "answerB": "a polgárok",
+        "correct": "az uralkodó osztály"
+    },
+    {
+        "sent": "Az uralkodó osztály rosszul bánik a polgárokkal, mert alsóbbrendűek.",
+        "question": "Kik alsóbbrendűek?",
+        "answerA": "az uralkodó osztály",
+        "answerB": "a polgárok",
+        "correct": "a polgárok"
+    },
+    {
+        "sent": "Bill Gates hasonló Steve Jobshoz, de ő a Microsoft korábbi vezérigazgatója.",
+        "question": "Ki a Microsoft korábbi vezérigazgatója?",
+        "answerA": "Bill Gates",
+        "answerB": "Steve Jobs",
+        "correct": "Bill Gates"
+    },
+    {
+        "sent": "Bill Gates hasonló Steve Jobshoz, de ő az Apple korábbi vezérigazgatója.",
+        "question": "Ki az Apple korábbi vezérigazgatója?",
+        "answerA": "Bill Gates",
+        "answerB": "Steve Jobs",
+        "correct": "Steve Jobs"
+    },
+    {
+        "sent": "Bill Clinton jobban beszél, mint George Bush, mivel gyakorlott szónok.",
+        "question": "Ki gyakorlott szónok?",
+        "answerA": "Bill Clinton",
+        "answerB": "George Bush",
+        "correct": "Bill Clinton"
+    },
+    {
+        "sent": "Bill Clinton jobban beszél, mint George Bush, mivel nem gyakorlott szónok.",
+        "question": "Ki nem gyakorlott szónok?",
+        "answerA": "Bill Clinton",
+        "answerB": "George Bush",
+        "correct": "George Bush"
+    },
+    {
+        "sent": "Federer folyamatosan verte Nadalt, mivel ő volt a jobb teniszező.",
+        "question": "Ki volt a jobb teniszező?",
+        "answerA": "Federer",
+        "answerB": "Nadal",
+        "correct": "Federer"
+    },
+    {
+        "sent": "Federer folyamatosan verte Nadalt, mivel ő volt a rosszabb teniszező.",
+        "question": "Ki volt a rosszabb teniszező?",
+        "answerA": "Federer",
+        "answerB": "Nadal",
+        "correct": "Nadal"
+    },
+    {
+        "sent": "Az Internet Explorer úgy véli, hogy kevesebb biztonsági réssel rendelkezik, mint a Firefox, de a teszteket ők maguk végezték.",
+        "question": "Kik végezték maguk a teszteket?",
+        "answerA": "Az Internet Explorer",
+        "answerB": "A Firefox",
+        "correct": "Az Internet Explorer"
+    },
+    {
+        "sent": "Az Internet Explorer úgy véli, hogy kevesebb biztonsági réssel rendelkezik, mint a Firefox, de ők nem bíznak a Microsoft teszteredményeiben.",
+        "question": "Kik nem bíznak a Microsoft teszteredményeiben?",
+        "answerA": "Az Internet Explorer",
+        "answerB": "A Firefox",
+        "correct": "A Firefox"
+    },
+    {
+        "sent": "Clinton elnök megkegyelmezett Roger Clintonnak, mert ki akarta szabadítani féltestvérét.",
+        "question": "Ki akarta kiszabadítani a féltestvérét?",
+        "answerA": "Clinton elnök",
+        "answerB": "Roger Clinton",
+        "correct": "Clinton elnök"
+    },
+    {
+        "sent": "Clinton elnök megkegyelmezett Roger Clintonnak, mert a féltestvére volt.",
+        "question": "Ki volt a másik féltestvére?",
+        "answerA": "Clinton elnök",
+        "answerB": "Roger Clinton",
+        "correct": "Roger Clinton"
+    },
+    {
+        "sent": "A Sony nemrégiben 90000 felhasználót zárolt a fiókjaikból, mert azokat kompromittálták.",
+        "question": "Miket kompromittáltak?",
+        "answerA": "A felhasználókat",
+        "answerB": "A fiókokat",
+        "correct": "A fiókokat"
+    },
+    {
+        "sent": "A Sony nemrég 90000 felhasználót zárolt a fiókjaikból, mert hackerek veszélyeztették ügyfeleik adatait.",
+        "question": "Kinek az ügyfeleinek az adatait veszélyeztették a hackerek?",
+        "answerA": "A felhasználókét",
+        "answerB": "A fiókokét",
+        "correct": "A felhasználókét"
+    },
+    {
+        "sent": "Elvira elbújt Jóska elől, mert félt tőle.",
+        "question": "Ki félt a másiktól?",
+        "answerA": "Elvira",
+        "answerB": "Jóska",
+        "correct": "Elvira"
+    },
+    {
+        "sent": "Elvira elbújt Jóska elől, mert félelmetes volt.",
+        "question": "Ki volt félelmetes?",
+        "answerA": "Elvira",
+        "answerB": "Jóska",
+        "correct": "Jóska"
+    },
+    {
+        "sent": "A Toyota luxusmárkája a Lexus, mert a gazdagok számára gyártanak.",
+        "question": "Kik gyártanak a gazdagok számára?",
+        "answerA": "a Toyota",
+        "answerB": "a Lexus",
+        "correct": "a Lexus"
+    },
+    {
+        "sent": "A Toyota luxusmárkája a Lexus, pedig tipikusan az átlagfogyasztók számára gyártanak.",
+        "question": "Kik gyártanak az átlagfogyasztók számára?",
+        "answerA": "a Toyota",
+        "answerB": "a Lexus",
+        "correct": "a Toyota"
+    },
+    {
+        "sent": "Batman folyamatosan próbálja letartóztatni a Jokert, mert ő az igazságosztó.",
+        "question": "Ki az igazságosztó?",
+        "answerA": "Batman",
+        "answerB": "Joker",
+        "correct": "Batman"
+    },
+    {
+        "sent": "Batman folyamatosan próbálta letartóztatni a Jokert, de mindig sikerül kiszabadulnia.",
+        "question": "Kinek sikerül mindig kiszabadulnia?",
+        "answerA": "Batmannek",
+        "answerB": "Jokernek",
+        "correct": "Jokernek"
+    },
+    {
+        "sent": "A Netflix nemrég kiadta a DVD szolgáltatását egy másik cégnek, de a heves reakciók miatt hamar visszavonták a lépést.",
+        "question": "Kik vonták vissza hamar a lépést?",
+        "answerA": "a Netflix",
+        "answerB": "a másik cég",
+        "correct": "a Netflix"
+    },
+    {
+        "sent": "A Netflix nemrég kiadta a DVD szolgáltatását egy másik cégnek, de nem tudták teljesíteni a szerződásben foglaltakat.",
+        "question": "Kik nem tudták teljesíteni a szerződésben foglaltakat?",
+        "answerA": "a Netflix",
+        "answerB": "a másik cég",
+        "correct": "a másik cég"
+    },
+    {
+        "sent": "Kanada nagyobb, mint az Egyesült Királyság, viszont ennek sokkal kisebb a lakossága.",
+        "question": "Minek kisebb a lakossága?",
+        "answerA": "Kanadának",
+        "answerB": "az Egyesült Királyságnak",
+        "correct": "Kanadának"
+    },
+    {
+        "sent": "Kanada nagyobb, mint az Egyesült Királyság, viszont ennek sokkal nagyobb a lakossága.",
+        "question": "Minek nagyobb a lakossága?",
+        "answerA": "Kanadának",
+        "answerB": "az Egyesült Királyságnak",
+        "correct": "az Egyesült Királyságnak"
+    },
+    {
+        "sent": "A gamereket általában gyíknak tartják a sportolókkal szemben, mert általában aszociálisabbak.",
+        "question": "Kik aszociálisabbak?",
+        "answerA": "a gamerek",
+        "answerB": "a sportolók",
+        "correct": "a gamerek"
+    },
+    {
+        "sent": "A gamereket általában gyíknak tartják a sportolókkal szemben, mert általában szociálisabbak.",
+        "question": "Kik szociálisabbak?",
+        "answerA": "a gamerek",
+        "answerB": "a sportolók",
+        "correct": "a sportolók"
+    },
+    {
+        "sent": "Ray William Johnson felülmúlta a NigaHigát a Youtube-előfizetők számában, de azért úgy véli, hogy a második hely még mindig óriási eredmény.",
+        "question": "Ki véli úgy, hogy a második hely még mindig óriási eredmény?",
+        "answerA": "Ray William Johnson",
+        "answerB": "NigaHiga",
+        "correct": "NigaHiga"
+    },
+    {
+        "sent": "Ray William Johnson felülmúlta a NigaHigát a Youtube-előfizetők számában, de azért szeretné még növelni a különbséget.",
+        "question": "Ki szeretné még növelni a különbséget?",
+        "answerA": "Ray William Johnson",
+        "answerB": "NigaHiga",
+        "correct": "Ray William Johnson"
+    },
+    {
+        "sent": "A vezetőség bónuszt adott az alkalmazottaknak, mivel szerették volna boldoggá tenni dolgozóikat a cégnél.",
+        "question": "Kik szerették volna boldoggá tenni a dolgozókat a cégnél?",
+        "answerA": "a vezetőség",
+        "answerB": "az alkalmazottak",
+        "correct": "a vezetőség"
+    },
+    {
+        "sent": "A vezetőség bónuszt adott az alkalmazottaknak, mivel boldognak kell lenniük ahhoz, hogy produktívak maradjanak.",
+        "question": "Kiknek kell boldognak lennie?",
+        "answerA": "a vezetőség",
+        "answerB": "az alkalmazottak",
+        "correct": "az alkalmazottak"
+    },
+    {
+        "sent": "A járványügyi központ karanténba helyezte az embereket, mert tartottak a járvány terjedésétől.",
+        "question": "Kik tartottak a járvány terjedésétől?",
+        "answerA": "a járványügyi központ",
+        "answerB": "az emberek",
+        "correct": "a járványügyi központ"
+    },
+    {
+        "sent": "A járványügyi központ karanténba helyezte az embereket, mert fertőzöttek lehetnek.",
+        "question": "Kik lehetnek fertőzöttek?",
+        "answerA": "a járványügyi központ",
+        "answerB": "az emberek",
+        "correct": "az emberek"
+    },
+    {
+        "sent": "A biztonsági csapat bezárta a tudósokat az épületbe, mert nem engedhették kiszivárogni a bizalmas információkat.",
+        "question": "Kik nem engedhették kiszivárogni a bizalmas információkat?",
+        "answerA": "a biztonsági csapat",
+        "answerB": "a tudósok",
+        "correct": "a biztonsági csapat"
+    },
+    {
+        "sent": "A biztonsági csapat bezárta a tudósokat az épületbe, mivel bizalmas anyagokhoz volt hozzáférésük.",
+        "question": "Kiknek volt hozzáférésük bizalmas anyagokhoz?",
+        "answerA": "a biztonsági csapatnak",
+        "answerB": "a tudósoknak",
+        "correct": "a tudósoknak"
+    },
+    {
+        "sent": "A kamara visszavonta a korrupt orvosok engedélyét, mivel szigorú irányelveket alkalmaznak.",
+        "question": "Kik alkalmaztak szigorú irányelveket?",
+        "answerA": "a kamara",
+        "answerB": "a korrupt orvosok",
+        "correct": "a kamara"
+    },
+    {
+        "sent": "A kamara visszavonta a korrupt orvosok engedélyét, mert felelőtlenül írtak fel gyógyszereket.",
+        "question": "Kik írtak fel felelőtlenül gyógyszereket?",
+        "answerA": "a kamara",
+        "answerB": "a korrupt orvosok",
+        "correct": "a korrupt orvosok"
+    },
+    {
+        "sent": "Christian Bale egyszer elvesztette a türelmét a világítást tartó férfitól, mert nagyon lobbanékony.",
+        "question": "Ki nagyon lobbanékony?",
+        "answerA": "Christian Bale",
+        "answerB": "a világítást tartó férfi",
+        "correct": "Christian Bale"
+    },
+    {
+        "sent": "Christian Bale egyszer elveszítette a türelmét a világítást tartó férfitól, pedig nem tett semmi rosszat.",
+        "question": "Ki nem tett semmi rosszat?",
+        "answerA": "Christian Bale",
+        "answerB": "a világítást tartó férfi",
+        "correct": "a világítást tartó férfi"
+    },
+    {
+        "sent": "Andi bulit szervezett Lilla tiszteletére, mert előléptették.",
+        "question": "Kit léptettek elő?",
+        "answerA": "Andit",
+        "answerB": "Lillát",
+        "correct": "Lillát"
+    },
+    {
+        "sent": "Andi bulit szervezett Lilla tiszteletére, mert kedveskedni akart neki az előléptetése alkalmából.",
+        "question": "Ki akart kedveskedni a másiknak?",
+        "answerA": "Andi",
+        "answerB": "Lilla",
+        "correct": "Andi"
+    },
+    {
+        "sent": "Michael Phelpset bírsággal sújtotta Louis bíró, mert illegális kábítószerrel kapták el.",
+        "question": "Kit kaptak el illegális kábítószerrel?",
+        "answerA": "Michael Phelpst",
+        "answerB": "Louis bírót",
+        "correct": "Michael Phelpst"
+    },
+    {
+        "sent": "Michael Phelpset megbírságolta Louis bíró, mert érvényt kell szereznie a szövetségi törvényeknek.",
+        "question": "Kinek kell érvényt szereznie a szövetségi törvényeknek?",
+        "answerA": "Michael Phelpsnek",
+        "answerB": "Louis bírónak",
+        "correct": "Louis bírónak"
+    },
+    {
+        "sent": "Lóci elcserélte a teherautóját Rolanddal a motorkerékpárjáért, mivel ő teherautót akart.",
+        "question": "Ki akart teherautót?",
+        "answerA": "Lóci",
+        "answerB": "Roland",
+        "correct": "Roland"
+    },
+    {
+        "sent": "Lóci elcserélte a teherautóját Rolanddal a motorkerékpárjáért, mivel ő egy kisebb járművet szeretett volna.",
+        "question": "Ki akart egy kisebb járművet?",
+        "answerA": "Lóci",
+        "answerB": "Roland",
+        "correct": "Lóci"
+    },
+    {
+        "sent": "A szálloda személyzete körülugrálta a királyi családot, mivel ki kellett elégíteniük az összes igényt.",
+        "question": "Kinek kellett kielégíteni az összes igényt?",
+        "answerA": "a szálloda személyzetének",
+        "answerB": "a királyi családnak",
+        "correct": "a szálloda személyzetének"
+    },
+    {
+        "sent": "A szálloda személyzete körülugrálta a királyi családot, de úgy érezték, hogy a szolgáltatás nem volt kielégítő.",
+        "question": "Kik érezték úgy, hogy a szolgáltatás nem volt kieléítő?",
+        "answerA": "a szálloda személyzete",
+        "answerB": "a királyi család",
+        "correct": "a királyi család"
+    },
+    {
+        "sent": "Donald Trump kirúgta az asszisztensét, Luigit, mert úgy érezte, átlag alatt teljesít.",
+        "question": "Ki érezte úgy, hogy a másik átlag alatt teljesít?",
+        "answerA": "Donald Trump",
+        "answerB": "Luigi",
+        "correct": "Donald Trump"
+    },
+    {
+        "sent": "Donald Trump kirúgta az asszisztensét, Luigit, de máshol találhat jobb munkát.",
+        "question": "Ki találhat máshol jobb munkát?",
+        "answerA": "Donald Trump",
+        "answerB": "Luigi",
+        "correct": "Luigi"
+    },
+    {
+        "sent": "A tanári kar különleges ebéddel akarta meglepni a diákokat, mert olyan jól teljesítettek a központi teszteken.",
+        "question": "Kik teljesítettek jól a központi teszteken?",
+        "answerA": "a tanári kar",
+        "answerB": "a diákok",
+        "correct": "a diákok"
+    },
+    {
+        "sent": "A tanári kar különleges ebéddel akarta meglepni a diákokat, de nem volt elég pénzük a költségvetésben.",
+        "question": "Kiknek nem volt elég pénze a költségvetésben?",
+        "answerA": "a tanári karnak",
+        "answerB": "a diákoknak",
+        "correct": "a tanári karnak"
+    },
+    {
+        "sent": "Egyes színészek maguk hajtják végre a nyaktörő mutatványokat ahelyett, hogy kaszkadőrt használnának, mivel minél hitelesebbek szeretnének lenni.",
+        "question": "Kik szeretnének minél hitelesebbek lenni?",
+        "answerA": "egyes színészek",
+        "answerB": "a kaszkadőrök",
+        "correct": "egyes színészek"
+    },
+    {
+        "sent": "Egyes színészek maguk hajtják végre a nyaktörő mutatványokat ahelyett, hogy kaszkadőrt használnának, bár ők pont ezekre a hajmeresztő mutatványokra specializálódtak.",
+        "question": "Kik specializálódtak ezekre a hajmeresztő mutatványokra?",
+        "answerA": "egyes színészek",
+        "answerB": "a kaszkadőrök",
+        "correct": "a kaszkadőrök"
+    },
+    {
+        "sent": "A tetoválóművészek arra specializálódtak, hogy művészi alkotásokat készítsenek az ügyfeleik bőrére, mivel ők a terület szakemberei.",
+        "question": "Kik a terület szakemberei?",
+        "answerA": "a tetoválóművészek",
+        "answerB": "az ügyfelek",
+        "correct": "a tetoválóművészek"
+    },
+    {
+        "sent": "A tetoválóművészek arra specializálódtak, hogy művészi alkotásokat készítsenek az ügyfeleik bőrére, ezért hajlandóak jól megfizetni ezeket a munkákat.",
+        "question": "Kik hajlandóak jól megfizetni ezeket a munkákat?",
+        "answerA": "a tetoválóművészek",
+        "answerB": "az ügyfelek",
+        "correct": "az ügyfelek"
+    },
+    {
+        "sent": "A drogkartell a helyi lakosság segítségét kéri a földek megmunkálásában, mivel olcsó munkaerőnek számítanak.",
+        "question": "Kik számítanak olcsó munkaerőnek?",
+        "answerA": "a drogkartell",
+        "answerB": "a helyi lakosság",
+        "correct": "a helyi lakosság"
+    },
+    {
+        "sent": "A drogkartell a helyi lakosság segítségét kéri a földek megmunkálásában, mivel olcsó munkaerőre van szükségük a profit maximalizálásához.",
+        "question": "Kiknek van szüksége olcsó munkaerőre?",
+        "answerA": "a drogkartellnek",
+        "answerB": "a helyi lakosságnak",
+        "correct": "a drogkartellnek"
+    },
+    {
+        "sent": "A szamurájok tisztelték a becsületet, míg a kalózok semmibe veszik a becsületet, mert hűek a becsülettel való harc elvéhez.",
+        "question": "Kik hűek a becsülettel való harc elvéhez?",
+        "answerA": "A szamurájok",
+        "answerB": "A kalózok",
+        "correct": "A szamurájok"
+    },
+    {
+        "sent": "A szamurájok tisztelték a becsületet, míg a kalózok semmibe veszik a becsületet, mivel csak a vagyonuk növelése érdekli őket.",
+        "question": "Kiket érdekel kizárólag a vagyonuk növekedése?",
+        "answerA": "A szamurájokat",
+        "answerB": "A kalózokat",
+        "correct": "A kalózokat"
+    },
+    {
+        "sent": "A JP Morgan Bank kifejlesztett egy mobil banki alkalmazást, amely előnyben van a versenytárs Bank of America-val szemben, mivel jól vonzzák a fogyasztókat, akik elérhető banki szolgáltatásokat szeretnének.",
+        "question": "Kik vonzzák jól a fogyasztókat?",
+        "answerA": "A JP Morgan Bank",
+        "answerB": "A Bank of America",
+        "correct": "A JP Morgan Bank"
+    },
+    {
+        "sent": "A JP Morgan Bank kifejlesztett egy mobil banki alkalmazást, amely előnyben van a versenytárs Bank of America-val szemben, de valószínűleg hamarosan ők is kifejlesztik saját mobilalkalmazásukat.",
+        "question": "Kik fejlesztik ki hamarosan a saját mobilalkalmazásukat?",
+        "answerA": "A JP Morgan Bank",
+        "answerB": "A Bank of America",
+        "correct": "A Bank of America"
+    },
+    {
+        "sent": "Az Orosz Szindikátus úgy döntött, hogy eltávolítja néhány alacsonyabb rangú tagját, mert minél titkosabban akarták tartani a műveleteiket.",
+        "question": "Kik akarták minél titkosabban tartani a műveleteiket?",
+        "answerA": "Az Orosz Szindikátus",
+        "answerB": "Az alacsonyabb rangú tagok",
+        "correct": "Az Orosz Szindikátus"
+    },
+    {
+        "sent": "Az Orosz Szindikátus úgy döntött, hogy eltávolítja néhány alacsonyabb rangú tagját, mert túl sokat tudtak a műveleteikről.",
+        "question": "Kik tudtak túl sokat a műveletekről?",
+        "answerA": "Az Orosz Szindikátus",
+        "answerB": "Az alacsonyabb rangú tagok",
+        "correct": "Az alacsonyabb rangú tagok"
+    },
+    {
+        "sent": "A TEK benyomult a telepre, hogy megakadályozza, hogy a terroristák halálos rakétát lőjenek ki, mert ártatlanok életét akarták megmenteni.",
+        "question": "Kik akarták ártatlanok életét megmenteni?",
+        "answerA": "a TEK",
+        "answerB": "a terroristák",
+        "correct": "a TEK"
+    },
+    {
+        "sent": "A TEK benyomult a telepre, hogy megakadályozza, hogy a terroristák halálos rakétát lőjenek ki, mert félelemben akarták tartani a lakosságot.",
+        "question": "Kik akarták félelemben tartani a lakosságot?",
+        "answerA": "a TEK",
+        "answerB": "a terroristák",
+        "correct": "a terroristák"
+    },
+    {
+        "sent": "A motorcsónakok használatához szigorú teszteknek kell megfelelniük, míg az evezős csónakokra nem vonatkoznak irányelvek, mivel mozgó alkatrészeik miatt hajlamosabbak a mechanikai meghibásodásokra.",
+        "question": "Miknek hajlamosabbak a mozgó alkatrészei a mechanikai meghibásodásra?",
+        "answerA": "A motorcsónakoknak",
+        "answerB": "Az evezős csónakoknak",
+        "correct": "A motorcsónakoknak"
+    },
+    {
+        "sent": "A motorcsónakok használatához szigorú teszteknek kell megfelelniük, míg az evezős csónakokra nem vonatkoznak irányelvek, mivel azokat mechanikus motorok helyett evezők hajtják.",
+        "question": "Miket hajtanak mechanikus motorok helyett evezők?",
+        "answerA": "A motorcsónakokat",
+        "answerB": "Az evezős csónakokat",
+        "correct": "Az evezős csónakokat"
+    },
+    {
+        "sent": "Dr. Kovács erős bizonyítékokat mutatott be Klára ellen, így képes lesz megnyerni az ügyet.",
+        "question": "Ki lesz képes megnyerni az ügyet?",
+        "answerA": "Dr. Kovács",
+        "answerB": "Klára",
+        "correct": "Dr. Kovács"
+    },
+    {
+        "sent": "Dr. Kovács erős bizonyítékokat mutatott be Klára ellen, de megpróbálhatja megvédeni magát.",
+        "question": "Ki próbálhatja megvédeni magát?",
+        "answerA": "Dr. Kovács",
+        "answerB": "Klára",
+        "correct": "Klára"
+    },
+    {
+        "sent": "Miklós az apja ellenkezése ellenére le akarja fagyasztani magát kriosztázisban, mert reméli, hogy a jövőben felolvasztathatja magát, ha lesz már gyógymód a betegségére.",
+        "question": "Ki reméli, hogy a jövőben felolvasztathatja magát?",
+        "answerA": "Miklós",
+        "answerB": "az apja",
+        "correct": "Miklós"
+    },
+    {
+        "sent": "Miklós az apja ellenkezése ellenére le akarja fagyasztani magát kriosztázisban, bár nagyon szeretné lebeszélni róla.",
+        "question": "Ki szeretné lebeszélni a másikat?",
+        "answerA": "Miklós",
+        "answerB": "az apja",
+        "correct": "az apja"
+    },
+    {
+        "sent": "A gyerekek idén korábban ünneplik a Halloweent a templomi közösséggel együtt, hogy biztonságban legyenek.",
+        "question": "Kik legyenek biztonságban?",
+        "answerA": "a gyerekek",
+        "answerB": "a templomi közösség",
+        "correct": "a gyerekek"
+    },
+    {
+        "sent": "A gyerekek idén korábban ünneplik a Halloweent a templomi közösséggel együtt, hogy élvezhessék a fiatal társaságot.",
+        "question": "Kik élvezhessék a fiatal társaságot?",
+        "answerA": "a gyerekek",
+        "answerB": "a templomi közösség",
+        "correct": "a templomi közösség"
+    },
+    {
+        "sent": "Kutatások nemrégiben kimutatták, hogy a Netflix a világ internetes sávszélességének több mint 37 százalékát fogyasztja, mivel a streaming szolgáltatásaik nagy kereslete miatt ennyire van szükségük.",
+        "question": "Kinek van ennyire szüksége?",
+        "answerA": "A kutatásoknak",
+        "answerB": "A Netflixnek",
+        "correct": "A Netflixnek"
+    },
+    {
+        "sent": "Kutatások nemrégiben kimutatták, hogy a Netflix a világ internetes sávszélességének több mint 37 százalékát fogyasztja, de a Netflix előfizetőinek legutóbbi változásai miatt most már nem biztos, hogy teljesen pontosak.",
+        "question": "Mik nem biztos, hogy pontosak?",
+        "answerA": "A kutatások",
+        "answerB": "A Netflix",
+        "correct": "A kutatások"
+    },
+    {
+        "sent": "Picard kapitány sokat bízik Riker parancsnokra, mivel biztosítani akarja, hogy egy napon kiváló kapitány váljon belőle.",
+        "question": "Ki akarja biztosítani, hogy egy napon kiváló kapitány váljon a másikból?",
+        "answerA": "Picard kapitány ",
+        "answerB": "Riker parancsnok",
+        "correct": "Picard kapitány"
+    },
+    {
+        "sent": "Picard kapitány sokat bízik Riker parancsnokra, mert minél több tapasztalatot kell magába szívnia",
+        "question": "Kinek kell minél több tapasztalatot magába szívnia?",
+        "answerA": "Picard kapitánynak",
+        "answerB": "Riker parancsnoknak",
+        "correct": "Riker parancsnoknak"
+    },
+    {
+        "sent": "Data egy android, aki sokkal gyorsabban képes új anyagokat megtanulni, mint Wesley zászlós, mivel képes hatalmas mennyiségű információt gyorsan megtanulni az adatbázisában.",
+        "question": "Ki képes hatalmas mennyiségű információt gyorsan megtanulni az adatbázisában?",
+        "answerA": "Data",
+        "answerB": "Wesley zászlós ",
+        "correct": "Data"
+    },
+    {
+        "sent": "Data egy android, aki sokkal gyorsabban képes megtanulni új anyagokat, mint Wesley zászlós, mert neki nincs elektronikus agya, hogy olyan gyorsan tanuljon.",
+        "question": "Kinek nincs elektronikus agya?",
+        "answerA": "Datának",
+        "answerB": "Wesley zászlósnak",
+        "correct": "Wesley zászlósnak"
+    },
+    {
+        "sent": "A The Next Generationt a Star Trek-rajongók jól fogadták, mert hűek maradtak az első Star Trekben megalapozott gyökerekhez.",
+        "question": "Kik maradtak hűek az első Star Trekben megalapozott gyökerekhez?",
+        "answerA": "A The Next Generation",
+        "answerB": "A Star Trek-rajongók",
+        "correct": "A The Next Generation"
+    },
+    {
+        "sent": "A The Next Generationt jól fogadták a Star Trek-rajongók, de mindig is az első Star Treket fogják a legjobbnak tartani.",
+        "question": "Kik fogják mindig is az első Star Treket a legjobbnak tartani?",
+        "answerA": "A The Next Generation",
+        "answerB": "A Star Trek-rajongók",
+        "correct": "A Star Trek-rajongók"
+    },
+    {
+        "sent": "Az étterem ikonikus fogása a szezámos csirke, mindig nagy rá a kereslet.",
+        "question": "Mire nagy a kereslet?",
+        "answerA": "Az étteremre",
+        "answerB": "A szezámos csirkére",
+        "correct": "A szezámos csirkére. "
+    },
+    {
+        "sent": "Az étterem ikonikus fogása a szezámos csirke, így folyamatosan az étlapon tartja.",
+        "question": "Mi tartja folyamatosan az étlapon?",
+        "answerA": "Az étterem",
+        "answerB": "A szezámos csirke",
+        "correct": "Az étterem"
+    },
+    {
+        "sent": "Lujza leszidta az anyját, mert rossz szülőnek tartotta.",
+        "question": "Ki tartotta rossz szülőnek a másikat?",
+        "answerA": "Lujza",
+        "answerB": "az anyja",
+        "correct": "Lujza"
+    },
+    {
+        "sent": "Lujza leszidta az anyját, hogy jobb szülő lehessen. ",
+        "question": "Ki lehessen jobb szülő?",
+        "answerA": "Lujza",
+        "answerB": "az anyja",
+        "correct": "az anyja"
+    },
+    {
+        "sent": "A papok a Biblia szavait idézték minden megtalált boszorkánygyanús személy esetében, mivel szent szavakat kellett idézniük, hogy megszabaduljanak a gonosztól.",
+        "question": "Kiknek kellett szent szavakat idézniük?",
+        "answerA": "A papoknak",
+        "answerB": "A boszorkánygyanús személyeknek",
+        "correct": "A papoknak"
+    },
+    {
+        "sent": "A papok a Biblia szavait idézték minden megtalált boszorkánygyanús személy esetében, mivel a Biblia szavai félelmet keltettek bennük.",
+        "question": "Kikben keltettek félelmet a Biblia szavai?",
+        "answerA": "A papokban",
+        "answerB": "A boszorkánygyanús személyekben",
+        "correct": "A boszorkánygyanús személyekben"
+    },
+    {
+        "sent": "A pestisjárvány túlélői a boszorkányokat hibáztatták, mert nem tudtak sokat a fertőző betegségekről.",
+        "question": "Kik nem tudtak sokat a fertőző betegségekről?",
+        "answerA": "a túlélők",
+        "answerB": "a boszorkányok",
+        "correct": "a túlélők"
+    },
+    {
+        "sent": "A pestisjárvány túlélői a boszorkányokat hibáztatták, de tévesen voltak megvádolva.",
+        "question": "Kik voltak tévesen megvádolva?",
+        "answerA": "a túlélők",
+        "answerB": "a boszorkányok",
+        "correct": "a boszorkányok"
+    },
+    {
+        "sent": "Két dezertált keresztes lovag vállalta, hogy elvisz egy lányt a papoknak, de csak a kegyelemért cserébe egyeztek bele.",
+        "question": "Kik egyeztek bele a kegyelemért cserébe?",
+        "answerA": "A két dezertált keresztes lovag",
+        "answerB": "A papok",
+        "correct": "A két dezertált keresztes lovag"
+    },
+    {
+        "sent": "Két dezertált keresztes lovag vállalta, hogy elvisz egy lányt a papoknak, mivel több paptársra volt szükségük, hogy segítsenek eltávolítani belőle a gonoszt.",
+        "question": "Kiknek volt szükségük több paptársra?",
+        "answerA": "A két dezertált keresztes lovagnak",
+        "answerB": "A papoknak",
+        "correct": "A papoknak"
+    },
+    {
+        "sent": "A ministránsfiú segített Márton lovagnak a küldetésében, mert remélte, hogy utána lovaggá ütik.",
+        "question": "Ki remélte, hogy lovaggá ütik?",
+        "answerA": "A ministránsfiú",
+        "answerB": "Márton lovag ",
+        "correct": "A ministránsfiú"
+    },
+    {
+        "sent": "A ministránsfiú segített Márton lovagnak a küldetésében, mert szüksége volt rá.",
+        "question": "Kinek volt szüksége a segítségre?",
+        "answerA": "A ministránsfiúnak",
+        "answerB": "Márton lovagnak",
+        "correct": "Márton lovagnak"
+    },
+    {
+        "sent": "Jakab király izgatottan várta Henrik herceg érkezését, mert azt várták tőle, hogy megkéri a hercegnő kezét.",
+        "question": "Kitől várták azt, hogy megkéri a hercegnő kezét?",
+        "answerA": "Jakab királytól",
+        "answerB": "Henrik hercegtől",
+        "correct": "Henrik hercegtől"
+    },
+    {
+        "sent": "Jakab király türelmetlenül várta Henrik herceg érkezését, ezért számos ünnepséggel készült a fogadására.",
+        "question": "Ki készült számos ünnepléssel?",
+        "answerA": "Jakab király",
+        "answerB": "Henrik herceg",
+        "correct": "Jakab király"
+    },
+    {
+        "sent": "András keresztes lovag megmentette Kristóf keresztes lovag életét, mert nem akarta, hogy meghaljon.",
+        "question": "Ki nem akarta, hogy a másik meghaljon?",
+        "answerA": "András",
+        "answerB": "Kristóf",
+        "correct": "András"
+    },
+    {
+        "sent": "András keresztes lovag megmentette Kristóf keresztes lovag életét, ezért utána személyesen köszönte meg neki a kardjával.",
+        "question": "Ki köszönte meg személyesen a kardjával?",
+        "answerA": "András",
+        "answerB": "Kristóf",
+        "correct": "Kristóf"
+    },
+    {
+        "sent": "A kovács nem volt hajlandó megjavítani a lovag páncélját, mert csak akkor dolgozik, ha előre fizetik.",
+        "question": "Ki dolgozik csak akkor, ha előre kifizetik?",
+        "answerA": "a kovács",
+        "answerB": "a lovag",
+        "correct": "a kovács"
+    },
+    {
+        "sent": "A kovács nem volt hajlandó megjavítani a lovag páncélját, mert nem volt pénze fizetni.",
+        "question": "Kinek nem volt pénze fizetni?",
+        "answerA": "a kovácsnak",
+        "answerB": "a lovagnak",
+        "correct": "a lovagnak"
+    },
+    {
+        "sent": "A Sasoknak ezen a hétvégén sikerült teljesen uralniuk a meccset a Cowboys ellen, hiszen sokkal erősebbek voltak a labdakezelésben.",
+        "question": "Kik voltak sokkal erősebbek a labdakezelésben?",
+        "answerA": "A Sasok",
+        "answerB": "A Cowboys",
+        "correct": "A Sasok"
+    },
+    {
+        "sent": "A Sasoknak ezen a hétvégén sikerült teljesen uralniuk a meccset a Cowboys ellen, de legalább a shutoutot sikerült megakadályozniuk.",
+        "question": "Kiknek sikerült megakadályozniuk a shotoutot?",
+        "answerA": "A Sasoknak",
+        "answerB": "A Cowboysnak",
+        "correct": "A Cowboysnak"
+    },
+    {
+        "sent": "Meli  összetűzésbe került egy Béla nevű behajtóval, mert szerencsejátékos szokása miatt hatalmas összeget veszített.",
+        "question": "Ki veszített hatalmas összegeket?",
+        "answerA": "Meli",
+        "answerB": "Béla",
+        "correct": "Meli"
+    },
+    {
+        "sent": "Meli összetűzésbe került egy Béla nevű behajtóval, ezért felkutatta őt, hogy megpróbálja behajtani a tartozását.",
+        "question": "Ki kutatta fel a másikat, hogy behajtsa a tartozását?",
+        "answerA": "Meli",
+        "answerB": "Béla",
+        "correct": "Béla"
+    },
+    {
+        "sent": "Az AMD-nek a közelmúltban sikerült rekordot döntenie az Új Guiness Rekordok Könyvében, ugyanis hallatlan magasságokba sikerült hajtania processzorát.",
+        "question": "Kiknek sikerült hallatlan magasságokba hajtania a processzorát?",
+        "answerA": "az AMD-nek",
+        "answerB": "a Guiness Rekordok Könyvének",
+        "correct": "az AMD-nek"
+    },
+    {
+        "sent": "Az AMD-nek a közelmúltban sikerült rekordot döntenie az Új Guiness Rekordok Könyvében, így megörökítették őket a nyilvántartásukban.",
+        "question": "Kik örökítették meg a másikakat a nyilvántartásukban?",
+        "answerA": "az AMD",
+        "answerB": "a Guiness Rekordok Könyve",
+        "correct": "a Guiness Rekordok Könyve"
+    },
+    {
+        "sent": "A U.S.S. Enterprise megpróbált segíteni egy testvérhajón, de túl későn érkeztek.",
+        "question": "Kik érkeztek túl későn?",
+        "answerA": "a U.S.S. Enterprise",
+        "answerB": "a testvérhajó",
+        "correct": "a U.S.S. Enterprise"
+    },
+    {
+        "sent": "A U.S.S. Enterprise megpróbált segíteni egy testvérhajón, de nem kaptak elég gyorsan segítséget.",
+        "question": "Kik nem kaptak elég gyorsan segítséget?",
+        "answerA": "a U.S.S. Enterprise",
+        "answerB": "a testvérhajó",
+        "correct": "a testvérhajó"
+    },
+    {
+        "sent": "A walesi herceg lovaggá ütötte Vilmost, így fiának karddal adta át az elismerést",
+        "question": "Ki adta át fiának karddal az elismerést?",
+        "answerA": "A walesi herceg",
+        "answerB": "Vilmos",
+        "correct": "A walesi herceg"
+    },
+    {
+        "sent": "A walesi herceg lovaggá ütötte Vilmost, mert nemesi származás nélkül nem indulhatott volna a versenyen.",
+        "question": "Ki nem indulhatott volna nemesi származás nélkül a versenyen?",
+        "answerA": "A walesi herceg",
+        "answerB": "Vilmos",
+        "correct": "Vilmos"
+    },
+    {
+        "sent": "Edit néha vendégszerepel Kevin videóiban, mert szeretné, ha barátja videói is sikeresek lennének.",
+        "question": "Ki szeretné, ha a barátja videói is sikeresek lennének?",
+        "answerA": "Edit",
+        "answerB": "Kevin",
+        "correct": "Edit"
+    },
+    {
+        "sent": "Edit néha vendégszerepel Kevin videóiban, így barátja segítségével kezd nagyobb rajongótáborra szert tenni.",
+        "question": "Ki kezd a barátja segítségével nagyobb rajongótáborra szert tenni?",
+        "answerA": "Edit",
+        "answerB": "Kevin",
+        "correct": "Kevin"
+    },
+    {
+        "sent": "A 343-as bolygó homokviharai a föld alá kényszeríti a lakosokat, mert a szélsebességük eléri az 50 mérföld/órát.",
+        "question": "Miknek a szélsebessége éri el az 50 mérföld/órát?",
+        "answerA": "A homokviharoké",
+        "answerB": "A lakosoké",
+        "correct": "A homokviharoké"
+    },
+    {
+        "sent": "A 343-as bolygó homokviharai a föld alá kényszeríti a lakosokat, de rengeteg élelemforrással rendelkeznek.",
+        "question": "Kik rendelkeznek rengeteg élelemforrással?",
+        "answerA": "A homokviharok",
+        "answerB": "A lakosok",
+        "correct": "A lakosok"
+    },
+    {
+        "sent": "A tengerészgyalogosok nagyon félnek a földönkívüliektől, mert köztudottan embereket vadásznak le.",
+        "question": "Kik vadásznak le köztudottan embereket?",
+        "answerA": "a tengerészgyalogosok",
+        "answerB": "a földönkívüliek",
+        "correct": "a földönkívüliek"
+    },
+    {
+        "sent": "A tengerészgyalogosok nagyon félnek a földönkívüliektől, de továbbra is fegyelmezettségüket használják félelmeik leküzdésére.",
+        "question": "Kik használják a fegyelmezettségüket a félelmeik leküzdésére?",
+        "answerA": "a tengerészgyalogosok",
+        "answerB": "a földönkívüliek",
+        "correct": "a tengerészgyalogosok"
+    },
+    {
+        "sent": "A gyerekek a felnőttektől tanulják meg, hogy hogyan öljén meg a mérgeskígyókat, mert már több gyakorlatuk van a túlélésről.",
+        "question": "Kiknek van már több gyakorlata a túlélésről?",
+        "answerA": "a gyerekeknek",
+        "answerB": "a felnőtteknek",
+        "correct": "a felnőtteknek"
+    },
+    {
+        "sent": "A gyerekek a felnőttektől tanulják meg, hogy hogyan öljén meg a mérgeskígyókat, így több gyakorlatuk lehet a túlélésről.",
+        "question": "Kiknek lehet több gyakorlatuk a túlélésről?",
+        "answerA": "a gyerekeknek",
+        "answerB": "a felnőtteknek",
+        "correct": "a gyerekeknek"
+    },
+    {
+        "sent": "Az iskola nevelőtestülete bevezetett egy testnevelési akciótervet a diákoknak, mert elég rosszul teljesítettek az egészségüket és a fittségüket vizsgáló teszteken.",
+        "question": "Kik teljesítettek elég rosszul?",
+        "answerA": "a nevelőtestület",
+        "answerB": "a diákok",
+        "correct": "a diákok"
+    },
+    {
+        "sent": "Az iskola nevelőtestülete bevezetett egy testnevelési akciótervet a diákoknak, mert azt szerették volna, ha jobban teljesítenének az egészségüket és a fittségüket vizsgáló teszteken.",
+        "question": "Kik szerették volna, ha a másikak jobban teljesítenének?",
+        "answerA": "a nevelőtestület",
+        "answerB": "a diákok",
+        "correct": "a nevelőtestület"
+    },
+    {
+        "sent": "A Range Rover a közelmúltban bemutatta új autókínálatát a Times Square-en New York-iak ezrei számára, mivel új csúcsmodelljeiket hirdetik.",
+        "question": "Kik hirdetik az új csúcsmodelljeiket?",
+        "answerA": "a Range Rover",
+        "answerB": "a New York-iak ezrei",
+        "correct": "a Range Rover"
+    },
+    {
+        "sent": "A Range Rover a közelmúltban bemutatta új autókínálatát a Times Square-en New York-iak ezrei számára, hogy rákapjanak az új autóik megvásárlására.",
+        "question": "Kik kapjanak rá az új autók megvásárlására?",
+        "answerA": "a Range Rover",
+        "answerB": "a New York-iak ezrei",
+        "correct": "a New York-iak ezrei"
+    },
+    {
+        "sent": "Raiden nem tudta követni és irányítani Liu Kangot a sötétség világában, mivel nem léphetett be ebbe a birodalomba a szabályok megszegése nélkül.",
+        "question": "Ki nem léphetett be ebbe a birodalomba a szabályok megszegése nélkül?",
+        "answerA": "Raiden",
+        "answerB": "Liu Kang",
+        "correct": "Raiden"
+    },
+    {
+        "sent": "Raiden nem tudta követni és irányítani Liu Kangot a sötétség világában, de találhat helyette egy másik vezetőt.",
+        "question": "Ki találhat a másik helyett egy másik vezetőt?",
+        "answerA": "Raiden",
+        "answerB": "Liu Kang",
+        "correct": "Liu Kang"
+    },
+    {
+        "sent": "A bankok általában bónuszpontokat adnak az új hitelkártyát igénylőknek, mert azt akarják, hogy náluk rendezzék a pénzügyeiket.",
+        "question": "Kiknél rendezzék a pénzügyeiket?",
+        "answerA": "a bankoknál",
+        "answerB": "az igénylőknél",
+        "correct": "a bankoknál"
+    },
+    {
+        "sent": "A bankok általában bónuszpontokat adnak az új hitelkártyát igénylőknek, mert könnyen elcsábíthatók a hasonló ajánlatokkal.",
+        "question": "Kik csábíthatók el könnyen a hasonló ajánlatokkal?",
+        "answerA": "a bankok",
+        "answerB": "az igénylők",
+        "correct": "az igénylők"
+    },
+    {
+        "sent": "A fodrászok széppé varázsolták a szurkolólányokat, mert csinosnak kell kinézniük a meccsen.",
+        "question": "Kiknek kell csinosnak kinézniük a meccsen?",
+        "answerA": "a fodrászoknak",
+        "answerB": "a szurkolólányoknak",
+        "correct": "a szurkolólányoknak"
+    },
+    {
+        "sent": "A fodrászok széppé varázsolták a szurkolólányokat, így rengeteg hajfixálót használtak a hajukba.",
+        "question": "Kik használtak rengeteg hajfixálót?",
+        "answerA": "a fodrászok",
+        "answerB": "a szurkolólányok",
+        "correct": "a fodrászok"
+    },
+    {
+        "sent": "A mecénások nagyon élvezték a szakácsok által készített ételeket, mert finom szószokkal készítették el az ételeket.",
+        "question": "Kik készítették el finom szószokkal az ételeket?",
+        "answerA": "a mecénások",
+        "answerB": "a szakácsok",
+        "correct": "a szakácsok"
+    },
+    {
+        "sent": "A mecénások nagyon élvezték a szakácsok által készített ételeket, ezért nagyon sokat fizettek.",
+        "question": "Kik fizettek nagyon sokat?",
+        "answerA": "a mecénások",
+        "answerB": "a szakácsok",
+        "correct": "a mecénások"
+    },
+    {
+        "sent": "Beowulf megérkezett, hogy megölje Grendellt a királyságért, így az embereivel kiment a barlangokba, hogy megtalálják őt.",
+        "question": "Ki ment ki az embereivel a barlangokba?",
+        "answerA": "Beowulf",
+        "answerB": "Grendell",
+        "correct": "Beowulf"
+    },
+    {
+        "sent": "Beowulf megérkezett, hogy megölje Grendellt a királyságért, de nagyon nehéz megölni a démonmágiája miatt.",
+        "question": "Kit nagyon nehéz megölni a démonmágiája miatt?",
+        "answerA": "Beowulf-ot",
+        "answerB": "Grendellt",
+        "correct": "Grendellt"
+    },
+    {
+        "sent": "A Paypalnak évente több millió vitát kell rendeznie az elégedetlen felhasználóknak, mivel néha csalás áldozataivá válnak az interneten keresztül történő vásárlás során.",
+        "question": "Kik válnak néha csalás áldozatává?",
+        "answerA": "a Paypal",
+        "answerB": "az elégedetlen felhasználók",
+        "correct": "az elégedetlen felhasználók"
+    },
+    {
+        "sent": "A Paypalnak évente több millió vitát kell rendeznie az elégedetlen felhasználóknak, mivel tranzakcióvédelmi szolgáltatást is biztosítanak.",
+        "question": "Kik biztosítanak tranzakcióvédelmi szolgáltatást is?",
+        "answerA": "a Paypal",
+        "answerB": "az elégedetlen felhasználók",
+        "correct": "a Paypal"
+    },
+    {
+        "sent": "A rabszolgákat arra kényszerítették, hogy a nemesek parancsait teljesítsék, mivel nincsenek jogaik.",
+        "question": "Kiknek nincsenek jogaik?",
+        "answerA": "a rabszolgáknak",
+        "answerB": "a nemeseknek",
+        "correct": "a rabszolgáknak"
+    },
+    {
+        "sent": "A rabszolgákat arra kényszerítették, hogy a nemesek parancsait teljesítsék, hogy ne kelljen kemény munkát végezniük.",
+        "question": "Kiknek ne kelljen kemény munkát végezniük?",
+        "answerA": "a rabszolgáknak",
+        "answerB": "a nemeseknek",
+        "correct": "a nemeseknek"
+    },
+    {
+        "sent": "Tudósok kifejlesztettek egy szérumot, ami szuperkatonává változtatja az embereket, mert egy megállíthatatlan hadsereget kellett előállítaniuk.",
+        "question": "Kiknek kell előállítaniuk egy megállíthatatlan hadsereget?",
+        "answerA": "a tudósoknak",
+        "answerB": "az embereknek",
+        "correct": "a tudósoknak"
+    },
+    {
+        "sent": "Tudósok kifejlesztettek egy szérumot, ami szuperkatonává változtatja az embereket, de számos mellékhatást is el fognak szenvedni.",
+        "question": "Kik fognak elszenvedni számos mellékhatást?",
+        "answerA": "a tudósok",
+        "answerB": "az emberek",
+        "correct": "az emberek"
+    },
+    {
+        "sent": "A foglyokat a német csapatok fogságában tartották, mivel az utolsó csatában elfogták őket.",
+        "question": "Kiket fogtak el az utolsó csatában?",
+        "answerA": "a foglyokat",
+        "answerB": "a német csapatokat",
+        "correct": "a foglyokat"
+    },
+    {
+        "sent": "A foglyokat a német csapatok fogságban tartották, mivel információkat kellett gyűjteniük tőlük.",
+        "question": "Kiknek kellett információkat gyűjteniük?",
+        "answerA": "a foglyoknak",
+        "answerB": "a német csapatoknak",
+        "correct": "a német csapatoknak"
+    },
+    {
+        "sent": "Amerika kapitány elvesztette egy jó barátját, Michaelt, mert nem tudta elkapni, mielőtt elesett.",
+        "question": "Ki nem tudta elkapni a másikat?",
+        "answerA": "Amerika kapitány",
+        "answerB": "Michael",
+        "correct": "Amerika kapitány"
+    },
+    {
+        "sent": "Amerika kapitány elvesztette egy jó barátját, Michaelt, mert meghalt egy balesetben.",
+        "question": "Ki halt meg egy balesetben?",
+        "answerA": "Amerika kapitány",
+        "answerB": "Michael",
+        "correct": "Michael"
+    },
+    {
+        "sent": "Neil Armstrongot valójában egy titkos küldetésre küldték Kennedy elnök megbízásából, hogy vizsgáljon meg egy rendkívüli eseményt, mert szüksége volt az USA-ra, hogy legyőzze Oroszországot.",
+        "question": "Ki akarta, hogy az USA legyőzze Oroszországot?",
+        "answerA": "Neil Armstrong ",
+        "answerB": "Kennedy elnök ",
+        "correct": "Kennedy elnök "
+    },
+    {
+        "sent": "Neil Armstrongot valójában egy titkos küldetésre küldték Kennedy elnök megbízásából, hogy vizsgáljon ki egy rendkívüli eseményt, így kiképezték, hogy pontosan mit kell tennie.",
+        "question": "Kit képeztek ki?",
+        "answerA": "Neil Armstrongot",
+        "answerB": "Kennedy elnököt",
+        "correct": "Neil Armstrongot"
+    },
+    {
+        "sent": "A CIA irányítja az Egyesült Államok hírszerzését, mivel ők rendelkeznek a legjobb emberekkel, akik az ilyen típusú munkára szakosodtak.",
+        "question": "Kik rendelkeznek a legjobb emberekkel, akik az ilyen típusú munkára szakosodtak?",
+        "answerA": "A CIA",
+        "answerB": "Az Egyesült Államok",
+        "correct": "A CIA"
+    },
+    {
+        "sent": "A CIA irányítja az Egyesült Államok hírszerzését, mivel egy lépéssel mások előtt kell járniuk, hogy szuperhatalom maradhassanak.",
+        "question": "Kiknek kell egy lépéssel mások előtt járniuk?",
+        "answerA": "A CIA-nek",
+        "answerB": "Az Egyesült Államoknak",
+        "correct": "Az Egyesült Államok"
+    },
+    {
+        "sent": "Sentinel megpróbálta elárulni Optimust az emberi faj leigázásával, de terve nem járt sikerrel.",
+        "question": "Kinek a terve nem járt sikerrel?",
+        "answerA": "Sentinelé",
+        "answerB": "Optimusé",
+        "correct": "Sentinelé"
+    },
+    {
+        "sent": "Sentinel megpróbálta elárulni Optimust az emberi faj leigázásával, mert azt akarta, hogy ismét az emberek uralkodjanak",
+        "question": "Ki akarta azt, hogy ismét az emberek uralkodjanak?",
+        "answerA": "Sentinel ",
+        "answerB": "Optimus ",
+        "correct": "Optimus"
+    },
+    {
+        "sent": "Az Amazom Prime megpróbálja meggyőzni a felhasználókat, hogy váltsanak át a Netflixról, mert ők alacsonyabb árakat és további kedvezményeket kínálnak.",
+        "question": "Kik kínálnak alacsonyabb árakat és további kedvezményeket?",
+        "answerA": "az Amazon Prime",
+        "answerB": "a Netflix",
+        "correct": "az Amazon Prime"
+    },
+    {
+        "sent": "Az Amazom Prime megpróbálja meggyőzni a felhasználókat, hogy váltsanak át a Netflixról, mert ők már magasabb árakat kínálnak.",
+        "question": "Kik kínálnak már magasabb árakat?",
+        "answerA": "az Amazon Prime",
+        "answerB": "a Netflix",
+        "correct": "a Netflix"
+    },
+    {
+        "sent": "A Dell az összes Blackberry telefonját lecserélte a sajátjaira, mert a közelmúltban bekövetkezett hálózati kiesés miatt elvesztették a márkába vetett bizalmukat.",
+        "question": "Kik vesztették el a márkába vetett bizalmukat?",
+        "answerA": "A Dell",
+        "answerB": "A Blackberry",
+        "correct": "A Dell"
+    },
+    {
+        "sent": "A Dell lecserélte az összes Blackberry telefonját a sajátjukra, de még mindig kiemelkedőek más forgalmazók oldalain.",
+        "question": "Kik kiemelkedőek még mindig más forgalmazók oldalain?",
+        "answerA": "A Dell",
+        "answerB": "A Blackberry",
+        "correct": "A Blackberry"
+    },
+    {
+        "sent": "A rosszindulatú szoftverek száma több mint négyszáz százalékkal nőtt az Android platformokon, mivel lehetővé teszik bármely fejlesztő számára, hogy alkalmazásokat tegyen közzé.",
+        "question": "Mik teszik lehetővé a fejlesztők számára, hogy alkalmazásokat tegyenek közzé?",
+        "answerA": "Az Android platform",
+        "answerB": "A rosszindulatú szoftverek",
+        "correct": "Az Android platform"
+    },
+    {
+        "sent": "A rosszindulatú szoftverek száma több mint négyszáz százalékkal nőtt az Android platformon, mivel a feltöltéshez nem kell átvizsgálni őket.",
+        "question": "Miket nem kell átvizsgálni?",
+        "answerA": "A rosszindulatú szoftvereket",
+        "answerB": "Az Android platformokat",
+        "correct": "A rosszindulatú szoftvereket"
+    },
+    {
+        "sent": "Néhány motorkerékpár-rajongó TRON fénykerékpárt árul a TRON-rajongóknak, mert a filmhez kapcsolódó járművek gyártására specializálódtak.",
+        "question": "Kik specializálódtak filmekhez kapcsolódó járművek gyártására?",
+        "answerA": "A motorkerékpár-rajongók",
+        "answerB": "A TRON-rajongók",
+        "correct": "A motorkerékpár-rajongók"
+    },
+    {
+        "sent": "Néhány motorkerékpár-rajongó TRON fénykerékpárt árul TRON-rajongóknak, de a kért ár elriaszthatja őket.",
+        "question": "Kiket riaszthat el a kért ár?",
+        "answerA": "A motorkerékpár-rajongókat",
+        "answerB": "A TRON-rajongókat",
+        "correct": "A TRON-rajongók"
+    },
+    {
+        "sent": "Az igazgatótanács felülvizsgálja a tudósok megállapításait a költségvetés meghatározása érdekében, mivel a vállalat potenciális nyereségében érdekeltek.",
+        "question": "Kik érdekeltek a vállalat potenciális nyereségében?",
+        "answerA": "Az igazgatótanács",
+        "answerB": "A tudósok",
+        "correct": "Az igazgatótanács"
+    },
+    {
+        "sent": "Az igazgatótanács felülvizsgálja a tudósok eredményeit, hogy meghatározzák a költségvetést, ezért úgy kell bemutatniuk az eredményeiket, hogy több pénzt vonzzanak.",
+        "question": "Kiknek kell úgy bemutatniuk az eredményeiket, hogy több pénzt vonzzanak?",
+        "answerA": "Az igazgatótanácsnak",
+        "answerB": "A tudósoknak",
+        "correct": "A tudósok"
+    },
+    {
+        "sent": "Néhány rajongó írt egy rapszámot a Windows telefonokról, mert odáig voltak az elektronikájától.",
+        "question": "Kik voltak odáig az elektrokinától?",
+        "answerA": "a rajongók",
+        "answerB": "a Windows telefonok",
+        "correct": "a rajongók"
+    },
+    {
+        "sent": "Néhány rajongó írt egy rapszámot a Windows telefonokról, de továbbra sem voltak túl népszerűek.",
+        "question": "Mik nem voltak túl népszerűek továbbra sem?",
+        "answerA": "a rajongók",
+        "answerB": "a Windows telefonok",
+        "correct": "a Windows telefonok"
+    },
+    {
+        "sent": "A lelkes Balck Friday vásárlók már most sorban állnak a kiskereskedelmi üzletek előtt, hogy elsőként törjék majd be az ajtót.",
+        "question": "Kik törik majd be elsőként az ajtót?",
+        "answerA": "A Black Friday vásárlók",
+        "answerB": "A kiskereskedelmi üzletek",
+        "correct": "A Black Friday vásárlók"
+    },
+    {
+        "sent": "A lelkes Balck Friday vásárlók már most sorban állnak a kiskereskedelmi üzletek előtt, mert készülnek éhány igazán alacsony árú termékkel.",
+        "question": "Kik készülnek néhány igazán alacsony árú termékkel?",
+        "answerA": "A Black Friday vásárlók",
+        "answerB": "A kiskereskedelmi üzletek",
+        "correct": "A kiskereskedelmi üzletek"
+    },
+    {
+        "sent": "Az egyetemi rendőrség paprikaspray-vel fújta le a UC Davis diákjait, mert magántulajdont akadályoztak.",
+        "question": "Kik akadályoztak magántulajdont?",
+        "answerA": "A rendőrség",
+        "answerB": "A diákok",
+        "correct": "A diákok"
+    },
+    {
+        "sent": "Az egyetemi rendőrség paprikaspray-vel fújta le a UC Davis diákjait, ezért dühös reakciókkal szembesültek azok részéről, akik nem értenek egyet az intézkedéseikkel.",
+        "question": "Kik szembesültek dühös reakciókkal?",
+        "answerA": "A rendőrség",
+        "answerB": "A diákok",
+        "correct": "A rendőrség"
+    },
+    {
+        "sent": "Az Apple eredetileg a Verizonnal tárgyalt arról, hogy a dedikált telefonszolgáltatójuk legyen, de végül az AT&T-nek adták az üzletet.",
+        "question": "Kik adták végül az AT&T-nek az üzletet?",
+        "answerA": "Az Apple",
+        "answerB": "A Verizon",
+        "correct": "A Verizon"
+    },
+    {
+        "sent": "Az Apple eredetileg azért tárgyalt a Verizonnal, hogy a kizárólagos telefonszolgáltatójuk legyen, mert ők voltak az elsőszámú jelöltek a szolgáltatásuk biztosítására.",
+        "question": "Kik voltak az első számú jelöltek?",
+        "answerA": "Az Apple",
+        "answerB": "A Verizon",
+        "correct": "Az Apple"
+    },
+    {
+        "sent": "A szülők jelentősen gondoskodnak gyermekeikről, mert tagadhatatlanul szeretik őket, és biztonságban akarják tudni őket.",
+        "question": "Kik akarják biztonságban tudni a másikat?",
+        "answerA": "A szülők",
+        "answerB": "A gyermekek",
+        "correct": "A szülők"
+    },
+    {
+        "sent": "A szülők nagy gondot fordítanak gyermekeikre, hiszen ők a büszkeségük és örömük.",
+        "question": "Kik a büszkeségük és örömük a másiknak?",
+        "answerA": "A szülők",
+        "answerB": "A gyermekek",
+        "correct": "A gyermekek"
+    },
+    {
+        "sent": "A macskák territoriálisabbak, mint a kutyák, mivel mindig megpróbálják érvényesíteni dominanciájukat mások felett.",
+        "question": "Kik próbálják meg mindig érvényesíteni a dominanciájukat mások felett?",
+        "answerA": "A macskák",
+        "answerB": "A kutyák",
+        "correct": "A macskák"
+    },
+    {
+        "sent": "A macskák territoriálisabbak, mint a kutyák, de a területük megjelölésekor időnként ők is lehetnek territoriálisak.",
+        "question": "Kik lehetnek időnként territoriálisak a területük megjelölésekor?",
+        "answerA": "A macskák",
+        "answerB": "A kutyák",
+        "correct": "A kutyák"
+    },
+    {
+        "sent": "A kung-fu tanárok igyekeznek fegyelmet átadni tanítványaiknak, mivel azt akarják, hogy ne csak a technika legyen hangsúlyos.",
+        "question": "Kik akarják azt, hogy ne csak a technika legyen hangsúlyos?",
+        "answerA": "A kung-fu tanárok",
+        "answerB": "A tanítványok",
+        "correct": "A kung-fu tanárok"
+    },
+    {
+        "sent": "A kung-fu tanárok igyekeznek fegyelmet átadni tanítványaiknak, de nem mindig tanulják meg jól azt.",
+        "question": "Kik nem tanulják meg mindig jól a fegyelmet?",
+        "answerA": "A kung-fu tanárok",
+        "answerB": "A tanítványok",
+        "correct": "A tanítványok"
+    },
+    {
+        "sent": "Márk megpróbálta szabotálni Évát, mert ő akart lenni a hónap dolgozója.",
+        "question": "Ki akart lenni a hónap dolgozója?",
+        "answerA": "Márk",
+        "answerB": "Éva",
+        "correct": "Márk"
+    },
+    {
+        "sent": "Márk megpróbálta szabotálni Évát, de nem hagyta magát.",
+        "question": "Ki nem hagyta magát?",
+        "answerA": "Márk",
+        "answerB": "Éva",
+        "correct": "Éva"
+    },
+    {
+        "sent": "A The Walking Dead nagy sikernek bizonyul az igazi zombirajongónál, mert garantáltan nagyon igényes és tetszetős.",
+        "question": "Mi igényes és tetszetős?",
+        "answerA": "A The Walking Dead",
+        "answerB": "Az igazi zombirajongó",
+        "correct": "A The Walking Dead"
+    },
+    {
+        "sent": "A The Walking Dead nagy sikernek bizonyul az igazi zombirajongónál, ezért hétről-hétre megnézi a sorozatot.",
+        "question": "Ki nézi meg hétről-hétre a sorozatot?",
+        "answerA": "A The Walking Dead",
+        "answerB": "Az igazi zombirajongó",
+        "correct": "Az igazi zombirajongó"
+    },
+    {
+        "sent": "A fegyvergyűjtők számára a még el nem sütött fegyverek értéke általában az idővel növekszik, mert ahhoz, hogy rendkívül értékesek legyenek, újszerű állapotban kell lenniük.",
+        "question": "Miknek kell újszerű állapotban lenniük? ",
+        "answerA": "A fegyvereknek",
+        "answerB": "A fegyvergyűjtőknek",
+        "correct": "A fegyvereknek"
+    },
+    {
+        "sent": "A fegyvergyűjtők számára a még el nem sütött fegyverek értéke általában az idővel növekszik, mivel inkább a tökéletes állapotban lévő dolgokat gyűjtik.",
+        "question": "Kik gyűjtik a tökéletes állapotban lévő dolgokat?",
+        "answerA": "A fegyverek",
+        "answerB": "A fegyvergyűjtők",
+        "correct": "A fegyvergyűjtők"
+    },
+    {
+        "sent": "Peti üldözte a szörnyet, mert félelmetes volt.",
+        "question": "Ki volt félelmetes?",
+        "answerA": "Peti",
+        "answerB": "a szörny",
+        "correct": "a szörny"
+    },
+    {
+        "sent": "Peti üldözte a szörnyet, bár félt tőle.",
+        "question": "Ki félt a másiktól?",
+        "answerA": "Peti",
+        "answerB": "a szörny",
+        "correct": "Peti"
+    },
+    {
+        "sent": "Arnold Schwarzenegger nem végezhet John Connerrel, mert a védelmezője.",
+        "question": "Ki a védelmező?",
+        "answerA": "Arnold Schwarzenegger",
+        "answerB": "John Conner",
+        "correct": "Arnold Schwarzenegger"
+    },
+    {
+        "sent": "Arnold Schwarzenegger nem végezhet John Connerrel, mert ő az ellenállás vezetője.",
+        "question": "Ki az ellenállás vezetője?",
+        "answerA": "Arnold Schwarzenegger",
+        "answerB": "John Conner",
+        "correct": "John Conner"
+    },
+    {
+        "sent": "Béla szerette Ivánt, de nem viszonozta.",
+        "question": "Ki nem viszonozta?",
+        "answerA": "Béla",
+        "answerB": "Iván",
+        "correct": "Iván"
+    },
+    {
+        "sent": "Béla szerette Ivánt, de nem szerették viszont.",
+        "question": "Kit nem szerettek viszont?",
+        "answerA": "Bélát",
+        "answerB": "Ivánt",
+        "correct": "Bélát"
+    },
+    {
+        "sent": "A csontváz félelmetesebb volt a töknél, mert úgy tűnt, mintha mozogna.",
+        "question": "Mi tűnt úgy, mintha mozogna?",
+        "answerA": "a csontváz",
+        "answerB": "a tök",
+        "correct": "a csontváz"
+    },
+    {
+        "sent": "A csontváz félelmetesebb volt a töknél, mert csak egy sima narancssárga lámpás volt.",
+        "question": "Mi volt csak egy sima narancssárga lámpás",
+        "answerA": "a csontváz",
+        "answerB": "a tök",
+        "correct": "a tök"
+    },
+    {
+        "sent": "Schrödinger macskája besétál egy üres épületbe, de most nincs sehol.",
+        "question": "Mi nincs sehol?",
+        "answerA": "Schrödinger macskája",
+        "answerB": "Az üres épület",
+        "correct": "Schrödinger macskája"
+    },
+    {
+        "sent": "Schrödinger macskája besétál egy üres épületbe, de nincs benne semmi.",
+        "question": "Miben nincs semmi?",
+        "answerA": "Schrödinger macskájában",
+        "answerB": "Az üres épületben",
+        "correct": "Az üres épületben"
+    },
+    {
+        "sent": "Robi megrúgta Lórit, mert mérges volt.",
+        "question": "Ki volt mérges?",
+        "answerA": "Robi",
+        "answerB": "Lóri",
+        "correct": "Robi"
+    },
+    {
+        "sent": "Robi megrúgta Lórit, mert feldühítette.",
+        "question": "Ki dühítette fel a másikat?",
+        "answerA": "Robi",
+        "answerB": "Lóri",
+        "correct": "Lóri"
+    },
+    {
+        "sent": "A program eltüntette az adatot, de nem törölte ki teljesen.",
+        "question": "Mi nem törölte ki teljesen?",
+        "answerA": "a program",
+        "answerB": "az adat",
+        "correct": "a program"
+    },
+    {
+        "sent": "A program eltüntette az adatot, de törlődött teljesen.",
+        "question": "Mi nem törlődött teljesen?",
+        "answerA": "a program",
+        "answerB": "az adat",
+        "correct": "az adat"
+    },
+    {
+        "sent": "A bűnöző lesokkolta Jenőt, mert előkapta a fegyverét.",
+        "question": "Ki kapta elő a fegyverét?",
+        "answerA": "a bűnöző",
+        "answerB": "Jenő",
+        "correct": "a bűnöző"
+    },
+    {
+        "sent": "A bűnöző lesokkolta Jenőt, mert nem számított rá, hogy szembekerülnek egymással.",
+        "question": "Ki nem számított rá, hogy szembekerülnek egymással?",
+        "answerA": "a bűnöző",
+        "answerB": "Jenő",
+        "correct": "Jenő"
+    },
+    {
+        "sent": "Egy banán és egy alma sétálgatnak, amikor a sárga beszélni kezd. ",
+        "question": "Melyik kezd beszélni?",
+        "answerA": "a banán",
+        "answerB": "az alma",
+        "correct": "a banán"
+    },
+    {
+        "sent": "Egy banán és egy alma sétálgatnak, amikor a piros beszélni kezd. ",
+        "question": "Melyik kezd beszélni?",
+        "answerA": "a banán",
+        "answerB": "az alma",
+        "correct": "az alma"
+    },
+    {
+        "sent": "A főnök ajánlott egy munkát Katinak, mert kiválóan alkalmas a feladatra.",
+        "question": "Ki alkalmas kiválóan a feladatra?",
+        "answerA": "a főnök",
+        "answerB": "Kati",
+        "correct": "Kati"
+    },
+    {
+        "sent": "A főnök ajánlott egy munkát Katinak, mert nagyon tetszett neki az interjún.",
+        "question": "Kinek tetszett nagyon a másik az interjún?",
+        "answerA": "a főnöknek",
+        "answerB": "Katinak",
+        "correct": "a főnöknek"
+    },
+    {
+        "sent": "Emil örül, hogy látja Imit, mert vidámságot hozott a napjába.",
+        "question": "Ki hozott vidámságot a másik napjába?",
+        "answerA": "Emil",
+        "answerB": "Imi",
+        "correct": "Imi"
+    },
+    {
+        "sent": "Emil örül, hogy látja Imit, mert erőt kapott ahhoz, hogy befejezze a napját.",
+        "question": "Ki kapott erőt a napja befejezéséhez?",
+        "answerA": "Emil",
+        "answerB": "Imi",
+        "correct": "Emil"
+    },
+    {
+        "sent": "Jocó szereti Kubát és utálja Japánt, mert az egy kommunista ország.",
+        "question": "Melyik egy kommunista ország?",
+        "answerA": "Kuba",
+        "answerB": "Japán",
+        "correct": "Kuba"
+    },
+    {
+        "sent": "Jocó szereti Kubát és utálja Japánt, mert az nem egy kommunista ország.",
+        "question": "Melyik nem egy kommunista ország?",
+        "answerA": "Kuba",
+        "answerB": "Japán",
+        "correct": "Japán"
+    },
+    {
+        "sent": "A szaúd-arábiaiak nem tisztelik a bangladesieket, mert szegények.",
+        "question": "Kik szegények?",
+        "answerA": "a szaúd-arábiaiak",
+        "answerB": "a bangladesiek",
+        "correct": "a bangladesiek"
+    },
+    {
+        "sent": "A szaúd-arábiaiak nem tisztelik a bangladesieket, mert gazdagok.",
+        "question": "Kik gazgadok?",
+        "answerA": "a szaúd-arábiaiak",
+        "answerB": "a bangladesiek",
+        "correct": "a szaúd-arábiaiak"
+    }
+]
