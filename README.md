@@ -3,8 +3,6 @@
 HAPP is the Hungarian translation of the [Definite Pronoun Resolution Dataset](https://www.hlt.utdallas.edu/~vince/data/emnlp12/) by Rahman and Ng (2012).
 
 
-:construction: The repository presently contains only a sample of the full dataset, the dataset is under upload. :construction:
-
 ## Format
 
 HAPP is stored in a `json` file, and it follows the format of the Winograd schemata.
