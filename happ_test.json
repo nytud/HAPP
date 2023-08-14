@@ -2324,18 +2324,18 @@
         "correct": "a kínaiak"
     },
     {
-        "sent": "A Jupiter nagyobb a Földnél, de gázbolygóként kisebb a tömege.",
-        "question": "Melyiknek kisebb a tömege?",
-        "answerA": "a Jupiternek",
-        "answerB": "a Földnek",
-        "correct": "a Jupiternek"
+        "sent": "A Jupiter nagyobb a Földnél, viszont ez gázbolygó.",
+        "question": "Melyik gázbolygó?",
+        "answerA": "a Jupiter",
+        "answerB": "a Föld",
+        "correct": "a Jupiter"
     },
     {
-        "sent": "A Jupiter nagyobb a Földnél, de kőzetbolygóként nagyobb a tömege.",
-        "question": "Melyiknek nagyobb a tömege?",
-        "answerA": "a Jupiternek",
-        "answerB": "a Földnek",
-        "correct": "a Földnek"
+        "sent": "A Jupiter nagyobb a Földnél, viszont ez kőzetbolygó.",
+        "question": "Melyik kőzetbolygó?",
+        "answerA": "a Jupiter",
+        "answerB": "a Föld",
+        "correct": "a Föld"
     },
     {
         "sent": "A tégla jobb építőanyag az agyagnál, mert sokkal nagyobb tömeget elbír.",
@@ -3241,7 +3241,7 @@
         "correct": "Meli"
     },
     {
-        "sent": "Meli összetűzésbe került egy Béla nevű behajtóval, ezért felkutatta őt, hogy megpróbálja behajtani a tartozását.",
+        "sent": "Meli összetűzésbe került egy Béla nevű behajtóval, mert felkutatta őt, hogy megpróbálja behajtani a tartozását.",
         "question": "Ki kutatta fel a másikat, hogy behajtsa a tartozását?",
         "answerA": "Meli",
         "answerB": "Béla",
@@ -3556,14 +3556,14 @@
         "correct": "Optimus"
     },
     {
-        "sent": "Az Amazom Prime megpróbálja meggyőzni a felhasználókat, hogy váltsanak át a Netflixról, mert ők alacsonyabb árakat és további kedvezményeket kínálnak.",
+        "sent": "Az Amazom Prime megpróbálja meggyőzni a felhasználókat, hogy váltsanak át a Netflixről, mert ők alacsonyabb árakat és további kedvezményeket kínálnak.",
         "question": "Kik kínálnak alacsonyabb árakat és további kedvezményeket?",
         "answerA": "az Amazon Prime",
         "answerB": "a Netflix",
         "correct": "az Amazon Prime"
     },
     {
-        "sent": "Az Amazom Prime megpróbálja meggyőzni a felhasználókat, hogy váltsanak át a Netflixról, mert ők már magasabb árakat kínálnak.",
+        "sent": "Az Amazom Prime megpróbálja meggyőzni a felhasználókat, hogy váltsanak át a Netflixről, mert ők már magasabb árakat kínálnak.",
         "question": "Kik kínálnak már magasabb árakat?",
         "answerA": "az Amazon Prime",
         "answerB": "a Netflix",
