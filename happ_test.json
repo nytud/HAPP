@@ -42,18 +42,18 @@
         "correct": "Andris"
     },
     {
-        "sent": "Kati kölcsönkért egy könyvet Erikától, de nem kapta vissza.",
+        "sent": "Kati kölcsönkért egy könyvet Erikától, de aztán nem kapta vissza.",
         "question": "Ki nem kapta vissza a könyvet?",
         "answerA": "Kati",
         "answerB": "Erika",
-        "correct": "Kati"
+        "correct": "Erika"
     },
     {
-        "sent": "Kati kölcsönkért egy könyvet Erikától, de nem adta vissza.",
+        "sent": "Kati kölcsönkért egy könyvet Erikától, de aztán nem adta vissza.",
         "question": "Ki nem adta vissza a könyvet?",
         "answerA": "Kati",
         "answerB": "Erika",
-        "correct": "Erika"
+        "correct": "Kati"
     },
     {
         "sent": "Vili szeretne Annával játszani, mert kedve van hozzá.",
@@ -189,8 +189,8 @@
         "correct": "a pirosak"
     },
     {
-        "sent": "A pirosak megverték a kékeket, mert jó csapat voltak.",
-        "question": "Kik voltak jó csapat?",
+        "sent": "A pirosak megverték a kékeket, pedig jobb csapat voltak.",
+        "question": "Kik voltak jobb csapat?",
         "answerA": "a pirosak",
         "answerB": "a kékek",
         "correct": "a kékek"
@@ -557,7 +557,7 @@
         "question": "Kit nem kaptak el?",
         "answerA": "Nándit",
         "answerB": "Marcit",
-        "correct": "Nándi"
+        "correct": "Nándit"
     },
     {
         "sent": "A sellő Zsuzsi felé úszott, amikor segítségért kiabált.",
@@ -1456,15 +1456,15 @@
         "correct": "John"
     },
     {
-        "sent": "Olívia jóvá akarja tenni a dolgot Emmánál. Aggódik egy kicsit.",
-        "question": "Ki aggódik egy kicsit?",
+        "sent": "Olívia jóvá akarja tenni a dolgot Emmánál, mert újra barátságot akat.",
+        "question": "Ki akar újra barátságot?",
         "answerA": "Olívia",
         "answerB": "Emma",
         "correct": "Olívia"
     },
     {
-        "sent": "Olívia jóvá akarja tenni a dolgot Emmánál. Nem akarja, hogy többé barátok legyenek.",
-        "question": "Ki nem akarja, hogy többé barátok legyenek?",
+        "sent": "Olívia jóvá akarja tenni a dolgot Emmánál, de nem akar barátságot.",
+        "question": "Ki nem akar barátságot?",
         "answerA": "Olívia",
         "answerB": "Emma",
         "correct": "Emma"
@@ -3672,14 +3672,14 @@
         "question": "Kik adták végül az AT&T-nek az üzletet?",
         "answerA": "Az Apple",
         "answerB": "A Verizon",
-        "correct": "A Verizon"
+        "correct": "Az Apple"
     },
     {
         "sent": "Az Apple eredetileg azért tárgyalt a Verizonnal, hogy a kizárólagos telefonszolgáltatójuk legyen, mert ők voltak az elsőszámú jelöltek a szolgáltatásuk biztosítására.",
         "question": "Kik voltak az első számú jelöltek?",
         "answerA": "Az Apple",
         "answerB": "A Verizon",
-        "correct": "Az Apple"
+        "correct": "A Verizon"
     },
     {
         "sent": "A szülők jelentősen gondoskodnak gyermekeikről, mert tagadhatatlanul szeretik őket, és biztonságban akarják tudni őket.",
