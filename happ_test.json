@@ -2263,9 +2263,9 @@
     {
         "sent": "Taylor Swift több lemezt adott el, mint Beyoncé, mert sok ember nem igazán rajong a zenéjéért.",
         "question": "Kinek a zenéjéért nem rajong igazán sok ember? ",
-        "answerA": "Taylor Swiftével",
-        "answerB": "Beyoncé-ével",
-        "correct": "Beyoncé-ével"
+        "answerA": "Taylor Swiftéért",
+        "answerB": "Beyoncé-ért",
+        "correct": "Beyoncé-ért"
     },
     {
         "sent": "A Fox News népszerűbb a CNN-nél, mert az érdekesebb.",
