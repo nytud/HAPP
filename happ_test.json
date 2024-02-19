@@ -263,7 +263,7 @@
         "question": "Mivel lehet világmegváltó gondolatokat írni?",
         "answerA": "a tollal",
         "answerB": "a karddal",
-        "correct": "a toll"
+        "correct": "a tollal"
     },
     {
         "sent": "A macskák azért támadtak az emberekre, mert elvadultak.",
@@ -1626,16 +1626,16 @@
     {
         "sent": "A léghajó azért csapódott a fának, mert levegőt vesztett.",
         "question": "Mi vesztett levegőt?",
-        "answerA": "A léghajó",
-        "answerB": "A fa",
-        "correct": "A léghajó"
+        "answerA": "a léghajó",
+        "answerB": "a fa",
+        "correct": "a léghajó"
     },
     {
         "sent": "A léghajó azért csapódott a fának, mert útban volt.",
         "question": "Mi volt útban",
-        "answerA": "A léghajó",
-        "answerB": "A fa",
-        "correct": "A fa "
+        "answerA": "a léghajó",
+        "answerB": "a fa",
+        "correct": "a fa"
     },
     {
         "sent": "Robi beperelte Tamást, mert sikkasztott.",
@@ -3054,7 +3054,7 @@
     {
         "sent": "Picard kapitány sokat bízik Riker parancsnokra, mivel biztosítani akarja, hogy egy napon kiváló kapitány váljon belőle.",
         "question": "Ki akarja biztosítani, hogy egy napon kiváló kapitány váljon a másikból?",
-        "answerA": "Picard kapitány ",
+        "answerA": "Picard kapitány",
         "answerB": "Riker parancsnok",
         "correct": "Picard kapitány"
     },
@@ -3098,7 +3098,7 @@
         "question": "Mire nagy a kereslet?",
         "answerA": "Az étteremre",
         "answerB": "A szezámos csirkére",
-        "correct": "A szezámos csirkére. "
+        "correct": "A szezámos csirkére"
     },
     {
         "sent": "Az étterem ikonikus fogása a szezámos csirke, így folyamatosan az étlapon tartja.",
@@ -3539,7 +3539,7 @@
         "question": "Kiknek kell egy lépéssel mások előtt járniuk?",
         "answerA": "A CIA-nek",
         "answerB": "Az Egyesült Államoknak",
-        "correct": "Az Egyesült Államok"
+        "correct": "Az Egyesült Államoknak"
     },
     {
         "sent": "Sentinel megpróbálta elárulni Optimust az emberi faj leigázásával, de terve nem járt sikerrel.",
@@ -3552,7 +3552,7 @@
         "sent": "Sentinel megpróbálta elárulni Optimust az emberi faj leigázásával, mert azt akarta, hogy ismét az emberek uralkodjanak",
         "question": "Ki akarta azt, hogy ismét az emberek uralkodjanak?",
         "answerA": "Sentinel ",
-        "answerB": "Optimus ",
+        "answerB": "Optimus",
         "correct": "Optimus"
     },
     {
@@ -3609,7 +3609,7 @@
         "question": "Kiket riaszthat el a kért ár?",
         "answerA": "A motorkerékpár-rajongókat",
         "answerB": "A TRON-rajongókat",
-        "correct": "A TRON-rajongók"
+        "correct": "A TRON-rajongókat"
     },
     {
         "sent": "Az igazgatótanács felülvizsgálja a tudósok megállapításait a költségvetés meghatározása érdekében, mivel a vállalat potenciális nyereségében érdekeltek.",
@@ -3623,7 +3623,7 @@
         "question": "Kiknek kell úgy bemutatniuk az eredményeiket, hogy több pénzt vonzzanak?",
         "answerA": "Az igazgatótanácsnak",
         "answerB": "A tudósoknak",
-        "correct": "A tudósok"
+        "correct": "A tudósoknak"
     },
     {
         "sent": "Néhány rajongó írt egy rapszámot a Windows telefonokról, mert odáig voltak az elektronikájától.",

@@ -494,7 +494,7 @@
         "question": "Ki a jó fiú?",
         "answerA": "Pókember",
         "answerB": "Magneto",
-        "correct": "Pókemger"
+        "correct": "Pókember"
     },
     {
         "sent": "Pókember legyőzte Magnetót, mert ő a rossz fiú.",
@@ -592,7 +592,7 @@
         "question": "Mik szórakoztatóak?",
         "answerA": "a videójátékok",
         "answerB": "a filmek",
-        "correct": "a videojátékok"
+        "correct": "a videójátékok"
     },
     {
         "sent": "A videójátékok azért fogynak jobban a filmeknél, mert régimódiak.",
@@ -835,7 +835,7 @@
     {
         "sent": "Egy motoros száguldott el a rendőr mellett, aki menekült.",
         "question": "Ki menekült?",
-        "answerA": "egy motoros",
+        "answerA": "a motoros",
         "answerB": "a rendőr",
         "correct": "a motoros"
     },
@@ -991,7 +991,7 @@
         "question": "Mi telt meg?",
         "answerA": "a káposzta",
         "answerB": "a fagyasztó",
-        "correct": "a fagyasztü"
+        "correct": "a fagyasztó"
     },
     {
         "sent": "Dávid megütötte Robit, mert Mari nagyon szerette őt.",
@@ -1306,7 +1306,7 @@
         "question": "Kinek volt rossz kedve?",
         "answerA": "Krisznek",
         "answerB": "Rolinak",
-        "correct": "Krisznej"
+        "correct": "Krisznek"
     },
     {
         "sent": "Kriszt bosszantotta, amikor Roli csörgött a kulcsaival, mert viccelődni akart.",
@@ -2606,14 +2606,14 @@
     {
         "sent": "Balázs megütötte Ervint, ezért sérült meg.",
         "question": "Ki sérült meg?",
-        "answerA": "Balűzs",
+        "answerA": "Balázs",
         "answerB": "Ervin",
         "correct": "Ervin"
     },
     {
         "sent": "Balázs megütötte Ervint, mert dühös volt.",
         "question": "Ki volt dühös?",
-        "answerA": "Balűzs",
+        "answerA": "Balázs",
         "answerB": "Ervin",
         "correct": "Balázs"
     },
@@ -6451,7 +6451,7 @@
         "question": "Kiknek van szükségük segítségre?",
         "answerA": "az FBI-nak",
         "answerB": "a rendőrségnek",
-        "correct": "a rendőrség"
+        "correct": "a rendőrségnek"
     },
     {
         "sent": "Az NSA a terepre küldte ügynökeit, hogy hírszerzési információkat szerezzenek, de nem tudták összegyűjteni a fontos információkat.",
@@ -8872,7 +8872,7 @@
         "sent": "Az MIT azért vette fel a diákokat, mert úgy látták, hogy jók.",
         "question": "Kik látták úgy, hogy jók?",
         "answerA": "a diákok",
-        "answerB": "a MIT",
+        "answerB": "az MIT",
         "correct": "az MIT"
     },
     {
